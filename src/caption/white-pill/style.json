@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.white-pill",
+  "name": "White pill",
+  "animation": "pop",
+  "font": "Poppins",
+  "size": 58,
+  "bold": true,
+  "italic": false,
+  "uppercase": false,
+  "color": "#111114ff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#ffffffff",
+  "bgPadding": 0.38,
+  "bgRadius": 1.0,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#00000066",
+  "shadowBlur": 10,
+  "shadowX": 0,
+  "shadowY": 4,
+  "letterSpacing": 0,
+  "highlight": "#ff3d71ff",
+  "maxWords": 4,
+  "y": 0.33,
+  "emoji": false
+ }
+}

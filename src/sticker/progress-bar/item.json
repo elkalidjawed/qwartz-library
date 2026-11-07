@@ -1,0 +1,34 @@
+{
+ "id": "sticker.progress-bar",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "progress",
+  "bar",
+  "loading",
+  "percent",
+  "complete",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Progress bar",
+  "ar": "شريط التقدم",
+  "de": "Fortschrittsbalken",
+  "es": "Barra de progreso",
+  "fr": "Barre de progression",
+  "id": "Bilah progres",
+  "ja": "プログレスバー",
+  "ko": "진행 막대",
+  "pt": "Barra de progresso",
+  "ru": "Индикатор прогресса",
+  "tr": "İlerleme çubuğu",
+  "zh": "进度条"
+ },
+ "payload": "progress-bar.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

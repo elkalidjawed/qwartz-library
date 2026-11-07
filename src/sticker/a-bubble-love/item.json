@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-bubble-love",
+ "type": "sticker",
+ "category": "Bubbles",
+ "tags": [
+  "speech",
+  "bubble",
+  "talk",
+  "chat",
+  "say",
+  "animated"
+ ],
+ "title": {
+  "en": "Love bubble",
+  "ar": "فقاعة حب",
+  "de": "Liebesblase",
+  "es": "Burbuja de amor",
+  "fr": "Bulle d'amour",
+  "id": "Balon cinta",
+  "ja": "ラブ吹き出し",
+  "ko": "사랑 말풍선",
+  "pt": "Balão de amor",
+  "ru": "Облачко любви",
+  "tr": "Aşk balonu",
+  "zh": "爱心气泡"
+ },
+ "payload": "a-bubble-love.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

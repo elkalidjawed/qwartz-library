@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.giveaway",
+ "type": "texttemplate",
+ "category": "Social",
+ "tags": [
+  "giveaway",
+  "contest",
+  "win",
+  "prize",
+  "free"
+ ],
+ "title": {
+  "en": "Giveaway",
+  "ar": "مسابقة",
+  "de": "Gewinnspiel",
+  "es": "Sorteo",
+  "fr": "Concours",
+  "id": "Giveaway",
+  "ja": "プレゼント企画",
+  "ko": "경품 이벤트",
+  "pt": "Sorteio",
+  "ru": "Розыгрыш",
+  "tr": "Çekiliş",
+  "zh": "抽奖活动"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

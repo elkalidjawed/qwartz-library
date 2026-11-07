@@ -1,0 +1,34 @@
+{
+ "id": "sticker.hourglass",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "hourglass",
+  "time",
+  "wait",
+  "sand",
+  "timer",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Hourglass",
+  "ar": "ساعة رملية",
+  "de": "Sanduhr",
+  "es": "Reloj de arena",
+  "fr": "Sablier",
+  "id": "Jam pasir",
+  "ja": "砂時計",
+  "ko": "모래시계",
+  "pt": "Ampulheta",
+  "ru": "Песочные часы",
+  "tr": "Kum saati",
+  "zh": "沙漏"
+ },
+ "payload": "hourglass.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

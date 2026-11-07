@@ -1,0 +1,31 @@
+{
+ "id": "transition.glitch-slide",
+ "type": "transition",
+ "category": "Glitch",
+ "tags": [
+  "glitch",
+  "slide",
+  "push",
+  "digital"
+ ],
+ "title": {
+  "en": "Glitch slide",
+  "ar": "انزلاق متقطع",
+  "de": "Glitch-Schieben",
+  "es": "Deslizar con glitch",
+  "fr": "Glissement glitch",
+  "id": "Geser glitch",
+  "ja": "グリッチスライド",
+  "ko": "글리치 슬라이드",
+  "pt": "Deslizar com glitch",
+  "ru": "Глитч-сдвиг",
+  "tr": "Glitch kaydırma",
+  "zh": "故障滑动"
+ },
+ "payload": "glitch-slide.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

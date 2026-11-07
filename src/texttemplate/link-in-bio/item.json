@@ -1,0 +1,33 @@
+{
+ "id": "texttemplate.link-in-bio",
+ "type": "texttemplate",
+ "category": "Social",
+ "tags": [
+  "link",
+  "bio",
+  "instagram",
+  "tiktok",
+  "shop",
+  "cta"
+ ],
+ "title": {
+  "en": "Link in bio",
+  "ar": "الرابط في البايو",
+  "de": "Link in der Bio",
+  "es": "Enlace en la bio",
+  "fr": "Lien en bio",
+  "id": "Link di bio",
+  "ja": "リンクはプロフへ",
+  "ko": "링크는 프로필에",
+  "pt": "Link na bio",
+  "ru": "Ссылка в профиле",
+  "tr": "Link biyografide",
+  "zh": "链接在简介"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

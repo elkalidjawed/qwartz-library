@@ -1,0 +1,32 @@
+{
+ "id": "caption.icy",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "ice",
+  "cold",
+  "blue",
+  "gradient",
+  "winter"
+ ],
+ "title": {
+  "en": "Icy",
+  "ar": "جليدي",
+  "de": "Eisig",
+  "es": "Helado",
+  "fr": "Glacé",
+  "id": "Es",
+  "ja": "アイス",
+  "ko": "아이시",
+  "pt": "Gelado",
+  "ru": "Ледяной",
+  "tr": "Buz gibi",
+  "zh": "冰爽"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "transition.colour-wash",
+ "type": "transition",
+ "category": "Light",
+ "tags": [
+  "colour",
+  "color",
+  "gradient",
+  "wash",
+  "dip"
+ ],
+ "title": {
+  "en": "Colour wash",
+  "ar": "غسل لوني",
+  "de": "Farbwelle",
+  "es": "Baño de color",
+  "fr": "Vague de couleur",
+  "id": "Sapuan warna",
+  "ja": "カラーウォッシュ",
+  "ko": "컬러 워시",
+  "pt": "Banho de cor",
+  "ru": "Цветная волна",
+  "tr": "Renk dalgası",
+  "zh": "色彩冲刷"
+ },
+ "payload": "colour-wash.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

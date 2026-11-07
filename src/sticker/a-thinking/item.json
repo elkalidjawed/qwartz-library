@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-thinking",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Thinking",
+  "ar": "تفكير",
+  "de": "Nachdenken",
+  "es": "Pensando",
+  "fr": "Réflexion",
+  "id": "Berpikir",
+  "ja": "考え中",
+  "ko": "생각 중",
+  "pt": "Pensando",
+  "ru": "Размышление",
+  "tr": "Düşünen",
+  "zh": "思考"
+ },
+ "payload": "a-thinking.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

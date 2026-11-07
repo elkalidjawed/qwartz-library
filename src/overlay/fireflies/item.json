@@ -1,0 +1,32 @@
+{
+ "id": "overlay.fireflies",
+ "type": "overlay",
+ "category": "Particles",
+ "tags": [
+  "fireflies",
+  "glow",
+  "night",
+  "magic",
+  "dust"
+ ],
+ "title": {
+  "en": "Fireflies",
+  "ar": "يراعات",
+  "de": "Glühwürmchen",
+  "es": "Luciérnagas",
+  "fr": "Lucioles",
+  "id": "Kunang-kunang",
+  "ja": "ホタル",
+  "ko": "반딧불이",
+  "pt": "Vaga-lumes",
+  "ru": "Светлячки",
+  "tr": "Ateş böcekleri",
+  "zh": "萤火虫"
+ },
+ "payload": "fireflies.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

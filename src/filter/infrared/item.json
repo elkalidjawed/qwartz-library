@@ -1,0 +1,31 @@
+{
+ "id": "filter.infrared",
+ "type": "filter",
+ "category": "Creative",
+ "tags": [
+  "infrared",
+  "pink",
+  "surreal",
+  "ir"
+ ],
+ "title": {
+  "en": "Infrared",
+  "ar": "الأشعة تحت الحمراء",
+  "de": "Infrarot",
+  "es": "Infrarrojo",
+  "fr": "Infrarouge",
+  "id": "Inframerah",
+  "ja": "赤外線",
+  "ko": "적외선",
+  "pt": "Infravermelho",
+  "ru": "Инфракрасный",
+  "tr": "Kızılötesi",
+  "zh": "红外"
+ },
+ "payload": "infrared.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

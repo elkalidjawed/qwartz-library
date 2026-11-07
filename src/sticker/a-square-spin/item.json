@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-square-spin",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Spinning square",
+  "ar": "مربع يدور",
+  "de": "Drehendes Quadrat",
+  "es": "Cuadrado girando",
+  "fr": "Carré tournant",
+  "id": "Persegi berputar",
+  "ja": "回転する四角",
+  "ko": "도는 사각형",
+  "pt": "Quadrado girando",
+  "ru": "Вращающийся квадрат",
+  "tr": "Dönen kare",
+  "zh": "旋转方块"
+ },
+ "payload": "a-square-spin.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

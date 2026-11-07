@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.sticker-script",
+  "name": "Sticker script",
+  "animation": "bounce",
+  "font": "Lobster",
+  "size": 84,
+  "bold": false,
+  "italic": false,
+  "uppercase": false,
+  "color": "#ff5c9aff",
+  "stroke": "#ffffffff",
+  "strokeWidth": 9,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#2a0a1fcc",
+  "shadowBlur": 0,
+  "shadowX": 4,
+  "shadowY": 5,
+  "letterSpacing": 0,
+  "highlight": "#ffcf3dff",
+  "maxWords": 3,
+  "y": 0.3,
+  "emoji": false
+ }
+}

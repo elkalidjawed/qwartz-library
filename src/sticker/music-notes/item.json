@@ -1,0 +1,34 @@
+{
+ "id": "sticker.music-notes",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "music",
+  "notes",
+  "song",
+  "melody",
+  "float",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Floating music notes",
+  "ar": "نوتات موسيقية",
+  "de": "Schwebende Noten",
+  "es": "Notas musicales",
+  "fr": "Notes de musique",
+  "id": "Not musik melayang",
+  "ja": "ふわふわ音符",
+  "ko": "떠다니는 음표",
+  "pt": "Notas musicais",
+  "ru": "Летящие ноты",
+  "tr": "Uçan notalar",
+  "zh": "飘动音符"
+ },
+ "payload": "music-notes.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

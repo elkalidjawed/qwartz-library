@@ -1,0 +1,32 @@
+{
+ "id": "effect.8-bit",
+ "type": "effect",
+ "category": "Retro",
+ "tags": [
+  "8-bit",
+  "pixel",
+  "game",
+  "retro",
+  "arcade"
+ ],
+ "title": {
+  "en": "8-bit game",
+  "ar": "لعبة 8 بت",
+  "de": "8-Bit-Spiel",
+  "es": "Juego 8 bits",
+  "fr": "Jeu 8 bits",
+  "id": "Game 8-bit",
+  "ja": "8ビットゲーム",
+  "ko": "8비트 게임",
+  "pt": "Jogo 8 bits",
+  "ru": "8-битная игра",
+  "tr": "8-bit oyun",
+  "zh": "8位游戏"
+ },
+ "payload": "8-bit.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

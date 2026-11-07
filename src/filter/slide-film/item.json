@@ -1,0 +1,32 @@
+{
+ "id": "filter.slide-film",
+ "type": "filter",
+ "category": "Vintage",
+ "tags": [
+  "slide",
+  "film",
+  "kodachrome",
+  "halation",
+  "rich"
+ ],
+ "title": {
+  "en": "Slide film",
+  "ar": "فيلم شرائح",
+  "de": "Diafilm",
+  "es": "Diapositiva",
+  "fr": "Diapositive",
+  "id": "Film slide",
+  "ja": "リバーサルフィルム",
+  "ko": "슬라이드 필름",
+  "pt": "Filme de slide",
+  "ru": "Слайдовая плёнка",
+  "tr": "Slayt filmi",
+  "zh": "反转胶片"
+ },
+ "payload": "slide-film.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

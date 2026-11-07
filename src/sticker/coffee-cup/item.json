@@ -1,0 +1,35 @@
+{
+ "id": "sticker.coffee-cup",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "coffee",
+  "cup",
+  "latte",
+  "morning",
+  "steam",
+  "drink",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Coffee cup",
+  "ar": "كوب قهوة",
+  "de": "Kaffeetasse",
+  "es": "Taza de café",
+  "fr": "Tasse de café",
+  "id": "Cangkir kopi",
+  "ja": "コーヒーカップ",
+  "ko": "커피 잔",
+  "pt": "Xícara de café",
+  "ru": "Чашка кофе",
+  "tr": "Kahve fincanı",
+  "zh": "咖啡杯"
+ },
+ "payload": "coffee-cup.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

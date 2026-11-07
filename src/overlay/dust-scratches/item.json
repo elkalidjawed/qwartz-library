@@ -1,0 +1,32 @@
+{
+ "id": "overlay.dust-scratches",
+ "type": "overlay",
+ "category": "Film",
+ "tags": [
+  "dust",
+  "scratches",
+  "film",
+  "old",
+  "retro"
+ ],
+ "title": {
+  "en": "Dust and scratches",
+  "ar": "غبار وخدوش",
+  "de": "Staub und Kratzer",
+  "es": "Polvo y rayas",
+  "fr": "Poussière et rayures",
+  "id": "Debu dan goresan",
+  "ja": "ほこりと傷",
+  "ko": "먼지와 스크래치",
+  "pt": "Poeira e arranhões",
+  "ru": "Пыль и царапины",
+  "tr": "Toz ve çizikler",
+  "zh": "灰尘与划痕"
+ },
+ "payload": "dust-scratches.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

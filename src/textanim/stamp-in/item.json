@@ -1,0 +1,32 @@
+{
+ "id": "textanim.stamp-in",
+ "type": "textanim",
+ "category": "TextIn",
+ "tags": [
+  "stamp",
+  "slam",
+  "impact",
+  "shake",
+  "punch"
+ ],
+ "title": {
+  "en": "Stamp",
+  "ar": "ختم",
+  "de": "Stempel",
+  "es": "Sello",
+  "fr": "Tampon",
+  "id": "Stempel",
+  "ja": "スタンプ",
+  "ko": "스탬프",
+  "pt": "Carimbo",
+  "ru": "Штамп",
+  "tr": "Damga",
+  "zh": "盖章"
+ },
+ "payload": "stamp-in.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.coming-soon",
+ "type": "texttemplate",
+ "category": "Titles",
+ "tags": [
+  "coming soon",
+  "teaser",
+  "launch",
+  "trailer",
+  "announcement"
+ ],
+ "title": {
+  "en": "Coming soon",
+  "ar": "قريبًا",
+  "de": "Demnächst",
+  "es": "Próximamente",
+  "fr": "Bientôt",
+  "id": "Segera hadir",
+  "ja": "近日公開",
+  "ko": "공개 예정",
+  "pt": "Em breve",
+  "ru": "Скоро",
+  "tr": "Çok yakında",
+  "zh": "即将推出"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

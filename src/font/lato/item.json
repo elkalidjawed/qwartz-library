@@ -1,0 +1,32 @@
+{
+ "id": "font.lato",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "lato"
+ ],
+ "title": {
+  "en": "Lato",
+  "ar": "Lato",
+  "de": "Lato",
+  "es": "Lato",
+  "fr": "Lato",
+  "id": "Lato",
+  "ja": "Lato",
+  "ko": "Lato",
+  "pt": "Lato",
+  "ru": "Lato",
+  "tr": "Lato",
+  "zh": "Lato"
+ },
+ "payload": "lato.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "c) 2010-2014 by tyPoland Lukasz Dziedzic (team@latofonts.com) with Reserved Font Name \"Lato\"",
+  "source": "https://github.com/google/fonts/tree/2eb0b48d5f760f62e286216f0859a8c540dbc1bd/ofl/lato"
+ },
+ "extra": {
+  "family": "Lato"
+ }
+}

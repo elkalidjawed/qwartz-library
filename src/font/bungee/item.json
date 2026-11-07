@@ -1,0 +1,37 @@
+{
+ "id": "font.bungee",
+ "type": "font",
+ "category": "Display",
+ "tags": [
+  "bold",
+  "urban",
+  "signage",
+  "headline",
+  "block",
+  "font"
+ ],
+ "title": {
+  "en": "Bungee",
+  "ar": "Bungee",
+  "de": "Bungee",
+  "es": "Bungee",
+  "fr": "Bungee",
+  "id": "Bungee",
+  "ja": "Bungee",
+  "ko": "Bungee",
+  "pt": "Bungee",
+  "ru": "Bungee",
+  "tr": "Bungee",
+  "zh": "Bungee"
+ },
+ "payload": "bungee.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Bungee Project Authors (David Jonathan Ross)",
+  "source": "https://github.com/google/fonts/tree/main/ofl/bungee"
+ },
+ "extra": {
+  "family": "Bungee"
+ }
+}

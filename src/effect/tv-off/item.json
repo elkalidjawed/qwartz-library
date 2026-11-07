@@ -1,0 +1,32 @@
+{
+ "id": "effect.tv-off",
+ "type": "effect",
+ "category": "Retro",
+ "tags": [
+  "tv",
+  "turn off",
+  "old",
+  "crt",
+  "ending"
+ ],
+ "title": {
+  "en": "TV turn off",
+  "ar": "إطفاء التلفاز",
+  "de": "TV ausschalten",
+  "es": "Apagar TV",
+  "fr": "Extinction TV",
+  "id": "TV mati",
+  "ja": "テレビオフ",
+  "ko": "TV 끄기",
+  "pt": "Desligar a TV",
+  "ru": "Выключение ТВ",
+  "tr": "TV kapanış",
+  "zh": "电视关机"
+ },
+ "payload": "tv-off.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

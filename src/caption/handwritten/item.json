@@ -1,0 +1,32 @@
+{
+ "id": "caption.handwritten",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "handwritten",
+  "notes",
+  "soft",
+  "cozy",
+  "vlog"
+ ],
+ "title": {
+  "en": "Handwritten",
+  "ar": "خط اليد",
+  "de": "Handschrift",
+  "es": "Escrito a mano",
+  "fr": "Manuscrit",
+  "id": "Tulisan tangan",
+  "ja": "手書き",
+  "ko": "손글씨",
+  "pt": "Escrito à mão",
+  "ru": "От руки",
+  "tr": "El yazısı",
+  "zh": "手写"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

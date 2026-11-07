@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.before-after",
+ "type": "texttemplate",
+ "category": "Labels",
+ "tags": [
+  "before",
+  "after",
+  "compare",
+  "split",
+  "transformation"
+ ],
+ "title": {
+  "en": "Before / After",
+  "ar": "قبل / بعد",
+  "de": "Vorher / Nachher",
+  "es": "Antes / Después",
+  "fr": "Avant / Après",
+  "id": "Sebelum / Sesudah",
+  "ja": "ビフォー / アフター",
+  "ko": "전 / 후",
+  "pt": "Antes / Depois",
+  "ru": "До / После",
+  "tr": "Önce / Sonra",
+  "zh": "前 / 后"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-clock-shake",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Alarm clock",
+  "ar": "منبه",
+  "de": "Wecker",
+  "es": "Despertador",
+  "fr": "Réveil",
+  "id": "Jam weker",
+  "ja": "目覚まし時計",
+  "ko": "알람 시계",
+  "pt": "Despertador",
+  "ru": "Будильник",
+  "tr": "Çalar saat",
+  "zh": "闹钟"
+ },
+ "payload": "anim-clock-shake.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

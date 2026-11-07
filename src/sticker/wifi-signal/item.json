@@ -1,0 +1,34 @@
+{
+ "id": "sticker.wifi-signal",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "wifi",
+  "signal",
+  "internet",
+  "connection",
+  "online",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Wi-Fi signal",
+  "ar": "إشارة واي فاي",
+  "de": "WLAN-Signal",
+  "es": "Señal wifi",
+  "fr": "Signal Wi-Fi",
+  "id": "Sinyal Wi-Fi",
+  "ja": "Wi-Fi 電波",
+  "ko": "와이파이 신호",
+  "pt": "Sinal de Wi-Fi",
+  "ru": "Сигнал Wi-Fi",
+  "tr": "Wi-Fi sinyali",
+  "zh": "Wi-Fi 信号"
+ },
+ "payload": "wifi-signal.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

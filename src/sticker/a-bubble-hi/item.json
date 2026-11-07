@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-bubble-hi",
+ "type": "sticker",
+ "category": "Bubbles",
+ "tags": [
+  "speech",
+  "bubble",
+  "talk",
+  "chat",
+  "say",
+  "animated"
+ ],
+ "title": {
+  "en": "Hi bubble",
+  "ar": "فقاعة مرحبًا",
+  "de": "Hallo-Blase",
+  "es": "Burbuja de hola",
+  "fr": "Bulle salut",
+  "id": "Balon hai",
+  "ja": "ハイ吹き出し",
+  "ko": "안녕 말풍선",
+  "pt": "Balão de oi",
+  "ru": "Облачко «привет»",
+  "tr": "Merhaba balonu",
+  "zh": "你好气泡"
+ },
+ "payload": "a-bubble-hi.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

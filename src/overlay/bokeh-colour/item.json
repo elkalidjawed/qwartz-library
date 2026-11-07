@@ -1,0 +1,32 @@
+{
+ "id": "overlay.bokeh-colour",
+ "type": "overlay",
+ "category": "Bokeh",
+ "tags": [
+  "bokeh",
+  "colourful",
+  "lights",
+  "party",
+  "blur"
+ ],
+ "title": {
+  "en": "Colourful bokeh",
+  "ar": "بوكيه ملون",
+  "de": "Buntes Bokeh",
+  "es": "Bokeh de colores",
+  "fr": "Bokeh coloré",
+  "id": "Bokeh warna-warni",
+  "ja": "カラフルなボケ",
+  "ko": "컬러풀한 보케",
+  "pt": "Bokeh colorido",
+  "ru": "Цветное боке",
+  "tr": "Renkli bokeh",
+  "zh": "彩色散景"
+ },
+ "payload": "bokeh-colour.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

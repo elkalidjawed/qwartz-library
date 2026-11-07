@@ -1,0 +1,8 @@
+# Heavy files stay out of src/: dist/ has them, named by their hash. (Slow upload.)
+src/**/*.zip
+src/**/*.cube
+src/**/*.apng
+src/**/*.gif
+src/**/anim.jpg
+src/**/thumb.jpg
+src/**/thumb.png

@@ -1,0 +1,32 @@
+{
+ "id": "caption.pink-neon",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "neon",
+  "pink",
+  "glow",
+  "night",
+  "club"
+ ],
+ "title": {
+  "en": "Pink neon",
+  "ar": "نيون وردي",
+  "de": "Pinkes Neon",
+  "es": "Neón rosa",
+  "fr": "Néon rose",
+  "id": "Neon merah muda",
+  "ja": "ピンクネオン",
+  "ko": "핑크 네온",
+  "pt": "Neon rosa",
+  "ru": "Розовый неон",
+  "tr": "Pembe neon",
+  "zh": "粉色霓虹"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

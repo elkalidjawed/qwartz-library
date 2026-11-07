@@ -1,0 +1,36 @@
+{
+ "id": "font.kanit",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "modern",
+  "clean",
+  "thai",
+  "sans",
+  "font"
+ ],
+ "title": {
+  "en": "Kanit",
+  "ar": "Kanit",
+  "de": "Kanit",
+  "es": "Kanit",
+  "fr": "Kanit",
+  "id": "Kanit",
+  "ja": "Kanit",
+  "ko": "Kanit",
+  "pt": "Kanit",
+  "ru": "Kanit",
+  "tr": "Kanit",
+  "zh": "Kanit"
+ },
+ "payload": "kanit.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Kanit Project Authors (Cadson Demak)",
+  "source": "https://github.com/google/fonts/tree/main/ofl/kanit"
+ },
+ "extra": {
+  "family": "Kanit"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "transition.arrow-wipe",
+ "type": "transition",
+ "category": "Wipe",
+ "tags": [
+  "arrow",
+  "chevron",
+  "wipe",
+  "triangle"
+ ],
+ "title": {
+  "en": "Arrow wipe",
+  "ar": "مسح بسهم",
+  "de": "Pfeil-Wischen",
+  "es": "Barrido de flecha",
+  "fr": "Balayage flèche",
+  "id": "Sapuan panah",
+  "ja": "矢印ワイプ",
+  "ko": "화살표 와이프",
+  "pt": "Transição de seta",
+  "ru": "Шторка-стрелка",
+  "tr": "Ok silme",
+  "zh": "箭头擦除"
+ },
+ "payload": "arrow-wipe.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

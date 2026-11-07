@@ -1,0 +1,32 @@
+{
+ "id": "caption.elegant-serif",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "elegant",
+  "serif",
+  "luxury",
+  "wedding",
+  "classy"
+ ],
+ "title": {
+  "en": "Elegant serif",
+  "ar": "أنيق",
+  "de": "Elegante Serife",
+  "es": "Serif elegante",
+  "fr": "Serif élégant",
+  "id": "Serif elegan",
+  "ja": "エレガント明朝",
+  "ko": "우아한 세리프",
+  "pt": "Serifa elegante",
+  "ru": "Элегантный",
+  "tr": "Zarif serif",
+  "zh": "优雅衬线"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "transition.polka-dots",
+ "type": "transition",
+ "category": "Shape",
+ "tags": [
+  "dots",
+  "polka",
+  "circles",
+  "pattern"
+ ],
+ "title": {
+  "en": "Polka dots",
+  "ar": "نقاط",
+  "de": "Punkte",
+  "es": "Lunares",
+  "fr": "Pois",
+  "id": "Polkadot",
+  "ja": "水玉",
+  "ko": "물방울 무늬",
+  "pt": "Bolinhas",
+  "ru": "Горошек",
+  "tr": "Puantiye",
+  "zh": "波点"
+ },
+ "payload": "polka-dots.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

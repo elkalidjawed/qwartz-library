@@ -1,0 +1,34 @@
+{
+ "id": "sticker.link-in-bio",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "link",
+  "bio",
+  "profile",
+  "instagram",
+  "tiktok",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Link in bio",
+  "ar": "الرابط في البايو",
+  "de": "Link in Bio",
+  "es": "Enlace en la bio",
+  "fr": "Lien en bio",
+  "id": "Link di bio",
+  "ja": "プロフのリンク",
+  "ko": "프로필 링크",
+  "pt": "Link na bio",
+  "ru": "Ссылка в профиле",
+  "tr": "Link biyografide",
+  "zh": "主页链接"
+ },
+ "payload": "link-in-bio.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

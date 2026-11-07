@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.did-you-know",
+ "type": "texttemplate",
+ "category": "Titles",
+ "tags": [
+  "fact",
+  "did you know",
+  "trivia",
+  "education",
+  "tip"
+ ],
+ "title": {
+  "en": "Did you know?",
+  "ar": "هل تعلم؟",
+  "de": "Wusstest du?",
+  "es": "¿Sabías que?",
+  "fr": "Le saviez-vous ?",
+  "id": "Tahukah kamu?",
+  "ja": "知ってた？",
+  "ko": "알고 있었나요?",
+  "pt": "Você sabia?",
+  "ru": "А вы знали?",
+  "tr": "Biliyor muydun?",
+  "zh": "你知道吗？"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

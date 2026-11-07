@@ -1,0 +1,36 @@
+{
+ "id": "sticker.countdown",
+ "type": "sticker",
+ "category": "Labels",
+ "tags": [
+  "countdown",
+  "3",
+  "2",
+  "1",
+  "timer",
+  "start",
+  "number",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Countdown 3-2-1",
+  "ar": "عد تنازلي 3-2-1",
+  "de": "Countdown 3-2-1",
+  "es": "Cuenta atrás 3-2-1",
+  "fr": "Compte à rebours 3-2-1",
+  "id": "Hitung mundur 3-2-1",
+  "ja": "カウントダウン 3-2-1",
+  "ko": "카운트다운 3-2-1",
+  "pt": "Contagem 3-2-1",
+  "ru": "Отсчёт 3-2-1",
+  "tr": "Geri sayım 3-2-1",
+  "zh": "倒计时 3-2-1"
+ },
+ "payload": "countdown.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

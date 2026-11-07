@@ -1,0 +1,35 @@
+{
+ "id": "sticker.pin-drop",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "location",
+  "pin",
+  "map",
+  "place",
+  "drop",
+  "travel",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Location pin drop",
+  "ar": "دبوس الموقع",
+  "de": "Standort-Pin",
+  "es": "Pin de ubicación",
+  "fr": "Épingle de lieu",
+  "id": "Pin lokasi",
+  "ja": "位置ピン",
+  "ko": "위치 핀",
+  "pt": "Pin de localização",
+  "ru": "Метка места",
+  "tr": "Konum iğnesi",
+  "zh": "定位图钉"
+ },
+ "payload": "pin-drop.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

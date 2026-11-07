@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-face-love",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Heart eyes",
+  "ar": "عيون قلوب",
+  "de": "Herzaugen",
+  "es": "Ojos de corazón",
+  "fr": "Yeux en cœur",
+  "id": "Mata hati",
+  "ja": "ハート目",
+  "ko": "하트 눈",
+  "pt": "Olhos de coração",
+  "ru": "Влюблённый",
+  "tr": "Kalp gözler",
+  "zh": "花痴脸"
+ },
+ "payload": "anim-face-love.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "sticker.gift-open",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "gift",
+  "present",
+  "box",
+  "surprise",
+  "giveaway",
+  "birthday",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Gift box opening",
+  "ar": "هدية تُفتح",
+  "de": "Geschenk öffnen",
+  "es": "Regalo que se abre",
+  "fr": "Cadeau qui s'ouvre",
+  "id": "Kado terbuka",
+  "ja": "開くギフト",
+  "ko": "열리는 선물",
+  "pt": "Presente abrindo",
+  "ru": "Открытие подарка",
+  "tr": "Açılan hediye",
+  "zh": "打开礼物"
+ },
+ "payload": "gift-open.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

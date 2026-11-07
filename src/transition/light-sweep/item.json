@@ -1,0 +1,32 @@
+{
+ "id": "transition.light-sweep",
+ "type": "transition",
+ "category": "Light",
+ "tags": [
+  "light",
+  "sweep",
+  "shine",
+  "glare",
+  "band"
+ ],
+ "title": {
+  "en": "Light sweep",
+  "ar": "مسح ضوئي",
+  "de": "Lichtstreifen",
+  "es": "Barrido de luz",
+  "fr": "Balayage lumineux",
+  "id": "Sapuan cahaya",
+  "ja": "光のスイープ",
+  "ko": "빛 스윕",
+  "pt": "Varredura de luz",
+  "ru": "Световая полоса",
+  "tr": "Işık süpürmesi",
+  "zh": "光束扫过"
+ },
+ "payload": "light-sweep.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

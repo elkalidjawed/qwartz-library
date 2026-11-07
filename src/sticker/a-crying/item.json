@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-crying",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Crying",
+  "ar": "بكاء",
+  "de": "Weinen",
+  "es": "Llorando",
+  "fr": "Pleurs",
+  "id": "Menangis",
+  "ja": "泣く",
+  "ko": "울음",
+  "pt": "Chorando",
+  "ru": "Плач",
+  "tr": "Ağlama",
+  "zh": "哭泣"
+ },
+ "payload": "a-crying.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

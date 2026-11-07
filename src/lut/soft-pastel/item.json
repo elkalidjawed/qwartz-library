@@ -1,0 +1,35 @@
+{
+ "id": "lut.soft-pastel",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "soft",
+  "pastel",
+  "light",
+  "dreamy",
+  "faded",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Soft pastel",
+  "ar": "باستيل ناعم",
+  "de": "Sanftes Pastell",
+  "es": "Pastel suave",
+  "fr": "Pastel doux",
+  "id": "Pastel lembut",
+  "ja": "ソフトパステル",
+  "ko": "소프트 파스텔",
+  "pt": "Pastel suave",
+  "ru": "Мягкая пастель",
+  "tr": "Yumuşak pastel",
+  "zh": "柔和粉彩"
+ },
+ "payload": "soft-pastel.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

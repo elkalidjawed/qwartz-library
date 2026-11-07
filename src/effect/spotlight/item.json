@@ -1,0 +1,32 @@
+{
+ "id": "effect.spotlight",
+ "type": "effect",
+ "category": "Light",
+ "tags": [
+  "spotlight",
+  "light",
+  "dark",
+  "stage",
+  "focus"
+ ],
+ "title": {
+  "en": "Spotlight",
+  "ar": "ضوء مسلط",
+  "de": "Scheinwerfer",
+  "es": "Foco de luz",
+  "fr": "Projecteur",
+  "id": "Lampu sorot",
+  "ja": "スポットライト",
+  "ko": "스포트라이트",
+  "pt": "Holofote",
+  "ru": "Прожектор",
+  "tr": "Spot ışığı",
+  "zh": "聚光灯"
+ },
+ "payload": "spotlight.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

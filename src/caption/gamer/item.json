@@ -1,0 +1,32 @@
+{
+ "id": "caption.gamer",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "gaming",
+  "chunky",
+  "purple",
+  "stream",
+  "fun"
+ ],
+ "title": {
+  "en": "Gamer",
+  "ar": "لاعب",
+  "de": "Gamer",
+  "es": "Gamer",
+  "fr": "Gamer",
+  "id": "Gamer",
+  "ja": "ゲーマー",
+  "ko": "게이머",
+  "pt": "Gamer",
+  "ru": "Геймер",
+  "tr": "Oyuncu",
+  "zh": "游戏玩家"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

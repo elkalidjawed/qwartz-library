@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-wow",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "WOW",
+  "ar": "WOW",
+  "de": "WOW",
+  "es": "WOW",
+  "fr": "WOW",
+  "id": "WOW",
+  "ja": "WOW",
+  "ko": "WOW",
+  "pt": "WOW",
+  "ru": "WOW",
+  "tr": "WOW",
+  "zh": "WOW"
+ },
+ "payload": "anim-wow.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

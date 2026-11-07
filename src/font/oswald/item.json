@@ -1,0 +1,32 @@
+{
+ "id": "font.oswald",
+ "type": "font",
+ "category": "Display",
+ "tags": [
+  "oswald"
+ ],
+ "title": {
+  "en": "Oswald",
+  "ar": "Oswald",
+  "de": "Oswald",
+  "es": "Oswald",
+  "fr": "Oswald",
+  "id": "Oswald",
+  "ja": "Oswald",
+  "ko": "Oswald",
+  "pt": "Oswald",
+  "ru": "Oswald",
+  "tr": "Oswald",
+  "zh": "Oswald"
+ },
+ "payload": "oswald.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "2016 The Oswald Project Authors (https://github.com/googlefonts/OswaldFont",
+  "source": "https://github.com/google/fonts/tree/2eb0b48d5f760f62e286216f0859a8c540dbc1bd/ofl/oswald"
+ },
+ "extra": {
+  "family": "Oswald"
+ }
+}

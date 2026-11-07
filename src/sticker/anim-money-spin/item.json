@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-money-spin",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Money",
+  "ar": "مال",
+  "de": "Geld",
+  "es": "Dinero",
+  "fr": "Argent",
+  "id": "Uang",
+  "ja": "お金",
+  "ko": "돈",
+  "pt": "Dinheiro",
+  "ru": "Деньги",
+  "tr": "Para",
+  "zh": "金钱"
+ },
+ "payload": "anim-money-spin.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

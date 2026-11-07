@@ -1,0 +1,469 @@
+{
+ "id": "lib-before-after",
+ "name": "Before / After",
+ "category": "Labels",
+ "tags": [
+  "before",
+  "after",
+  "compare",
+  "split",
+  "transformation"
+ ],
+ "duration": 2822400000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 2822400000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.006,
+     "height": {
+      "base": 1.0,
+      "keys": [
+       {
+        "t": 0,
+        "v": 0.0,
+        "e": {
+         "interp": 0
+        }
+       },
+       {
+        "t": 352800000,
+        "v": 1.0,
+        "e": {
+         "interp": 3
+        }
+       },
+       {
+        "t": 2540160000,
+        "v": 1.0,
+        "e": {
+         "interp": 0
+        }
+       },
+       {
+        "t": 2822400000,
+        "v": 0.0,
+        "e": {
+         "interp": 2
+        }
+       }
+      ]
+     },
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "animOut": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 141120000,
+    "duration": 2681280000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": -0.5,
+     "y": -0.76,
+     "width": 0.3,
+     "height": 0.09,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 1.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     0.0667,
+     0.0667,
+     0.0784,
+     0.85
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 176400000,
+    "duration": 2646000000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": -0.25,
+     "y": -0.38,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "BEFORE",
+     "font": "Montserrat",
+     "size": 42,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 4,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 282240000,
+    "duration": 2540160000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.5,
+     "y": -0.76,
+     "width": 0.3,
+     "height": 0.09,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 1.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     0.8392,
+     0.0392,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 317520000,
+    "duration": 2504880000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.25,
+     "y": -0.38,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "AFTER",
+     "font": "Montserrat",
+     "size": 42,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      0.0667,
+      0.0667,
+      0.0784,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 4,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

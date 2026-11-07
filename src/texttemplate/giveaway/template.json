@@ -1,0 +1,309 @@
+{
+ "id": "lib-giveaway",
+ "name": "Giveaway",
+ "category": "Social",
+ "tags": [
+  "giveaway",
+  "contest",
+  "win",
+  "prize",
+  "free"
+ ],
+ "duration": 2822400000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 2822400000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.0,
+     "y": -0.08,
+     "width": 0.82,
+     "height": 0.2,
+     "rotation": -4.0,
+     "feather": 0.004,
+     "roundness": 0.35,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "heartbeat",
+     "duration": 846720000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     0.1804,
+     0.4941,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 70560000,
+    "duration": 2751840000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": -0.04,
+     "scale": 1.0,
+     "rotation": -4.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "heartbeat",
+     "duration": 846720000
+    },
+    "effects": [],
+    "text": {
+     "text": "GIVEAWAY",
+     "font": "Bangers",
+     "size": 140,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.3529,
+      0.0392,
+      0.1725,
+      1.0
+     ],
+     "strokeWidth": 6,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 4,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 423360000,
+    "duration": 2399040000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.13,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "text-word-rise",
+     "duration": 635040000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Follow  ·  Like  ·  Tag a buddy",
+     "font": "Montserrat",
+     "size": 40,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 3,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

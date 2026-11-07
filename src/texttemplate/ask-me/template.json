@@ -1,0 +1,437 @@
+{
+ "id": "lib-ask-me",
+ "name": "Ask me anything",
+ "category": "Social",
+ "tags": [
+  "question",
+  "ask me",
+  "q&a",
+  "story",
+  "poll"
+ ],
+ "duration": 3528000000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 3528000000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.0,
+     "y": 0.06,
+     "width": 0.78,
+     "height": 0.36,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 0.12,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 352800000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 3528000000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.0,
+     "y": -0.17,
+     "width": 0.78,
+     "height": 0.13,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 0.25,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 352800000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     0.4824,
+     0.302,
+     1.0,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 141120000,
+    "duration": 3386880000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": -0.085,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "fade",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Ask me anything",
+     "font": "Poppins",
+     "size": 50,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 211680000,
+    "duration": 3316320000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": 0.0,
+     "y": 0.15,
+     "width": 0.68,
+     "height": 0.13,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 0.3,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "fade",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     0.9333,
+     0.9333,
+     0.949,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 423360000,
+    "duration": 3104640000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.075,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "text-typewriter",
+     "duration": 705600000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Type something...",
+     "font": "Poppins",
+     "size": 38,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      0.5412,
+      0.5412,
+      0.5882,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

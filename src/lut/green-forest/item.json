@@ -1,0 +1,35 @@
+{
+ "id": "lut.green-forest",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "moody",
+  "green",
+  "forest",
+  "nature",
+  "dark",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Green forest",
+  "ar": "غابة خضراء",
+  "de": "Grüner Wald",
+  "es": "Bosque verde",
+  "fr": "Forêt verte",
+  "id": "Hutan hijau",
+  "ja": "グリーンフォレスト",
+  "ko": "초록 숲",
+  "pt": "Floresta verde",
+  "ru": "Зелёный лес",
+  "tr": "Yeşil orman",
+  "zh": "森林绿"
+ },
+ "payload": "green-forest.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

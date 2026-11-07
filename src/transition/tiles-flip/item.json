@@ -1,0 +1,32 @@
+{
+ "id": "transition.tiles-flip",
+ "type": "transition",
+ "category": "Shape",
+ "tags": [
+  "tiles",
+  "flip",
+  "mosaic",
+  "grid",
+  "cards"
+ ],
+ "title": {
+  "en": "Tiles flip",
+  "ar": "قلب المربعات",
+  "de": "Kacheln drehen",
+  "es": "Mosaico giratorio",
+  "fr": "Tuiles retournées",
+  "id": "Ubin berbalik",
+  "ja": "タイル反転",
+  "ko": "타일 뒤집기",
+  "pt": "Virar ladrilhos",
+  "ru": "Переворот плиток",
+  "tr": "Döşeme çevirme",
+  "zh": "瓷砖翻转"
+ },
+ "payload": "tiles-flip.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

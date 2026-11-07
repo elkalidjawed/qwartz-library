@@ -1,0 +1,34 @@
+{
+ "id": "sticker.loading-spinner",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "loading",
+  "spinner",
+  "wait",
+  "buffering",
+  "circle",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Loading spinner",
+  "ar": "مؤشر التحميل",
+  "de": "Ladekreis",
+  "es": "Cargando",
+  "fr": "Chargement",
+  "id": "Memuat",
+  "ja": "読み込み中",
+  "ko": "로딩 스피너",
+  "pt": "Carregando",
+  "ru": "Загрузка",
+  "tr": "Yükleniyor",
+  "zh": "加载中"
+ },
+ "payload": "loading-spinner.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

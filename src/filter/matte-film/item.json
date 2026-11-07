@@ -1,0 +1,32 @@
+{
+ "id": "filter.matte-film",
+ "type": "filter",
+ "category": "Vintage",
+ "tags": [
+  "matte",
+  "film",
+  "faded",
+  "lifted",
+  "grain"
+ ],
+ "title": {
+  "en": "Matte film",
+  "ar": "فيلم مطفأ",
+  "de": "Matter Film",
+  "es": "Película mate",
+  "fr": "Film mat",
+  "id": "Film matte",
+  "ja": "マットフィルム",
+  "ko": "매트 필름",
+  "pt": "Filme fosco",
+  "ru": "Матовая плёнка",
+  "tr": "Mat film",
+  "zh": "哑光胶片"
+ },
+ "payload": "matte-film.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

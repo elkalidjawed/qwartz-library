@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-dizzy",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Dizzy",
+  "ar": "دوار",
+  "de": "Schwindelig",
+  "es": "Mareado",
+  "fr": "Étourdi",
+  "id": "Pusing",
+  "ja": "目が回る",
+  "ko": "어지러움",
+  "pt": "Tonto",
+  "ru": "Головокружение",
+  "tr": "Başı dönen",
+  "zh": "晕头转向"
+ },
+ "payload": "a-dizzy.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

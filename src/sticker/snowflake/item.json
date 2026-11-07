@@ -1,0 +1,34 @@
+{
+ "id": "sticker.snowflake",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "snowflake",
+  "snow",
+  "winter",
+  "christmas",
+  "cold",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Snowflake",
+  "ar": "ندفة ثلج",
+  "de": "Schneeflocke",
+  "es": "Copo de nieve",
+  "fr": "Flocon de neige",
+  "id": "Kepingan salju",
+  "ja": "雪の結晶",
+  "ko": "눈송이",
+  "pt": "Floco de neve",
+  "ru": "Снежинка",
+  "tr": "Kar tanesi",
+  "zh": "雪花"
+ },
+ "payload": "snowflake.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

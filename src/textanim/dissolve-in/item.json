@@ -1,0 +1,32 @@
+{
+ "id": "textanim.dissolve-in",
+ "type": "textanim",
+ "category": "TextIn",
+ "tags": [
+  "dissolve",
+  "appear",
+  "dust",
+  "soft",
+  "in"
+ ],
+ "title": {
+  "en": "Dissolve in",
+  "ar": "ظهور بالتلاشي",
+  "de": "Einblenden durch Auflösen",
+  "es": "Entrada disuelta",
+  "fr": "Apparition en fondu granuleux",
+  "id": "Muncul larut",
+  "ja": "ディゾルブイン",
+  "ko": "디졸브 인",
+  "pt": "Entrada dissolvida",
+  "ru": "Проявление растворением",
+  "tr": "Çözülerek giriş",
+  "zh": "溶解出现"
+ },
+ "payload": "dissolve-in.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

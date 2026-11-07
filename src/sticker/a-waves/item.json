@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-waves",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Waves",
+  "ar": "أمواج",
+  "de": "Wellen",
+  "es": "Olas",
+  "fr": "Vagues",
+  "id": "Ombak",
+  "ja": "波",
+  "ko": "파도",
+  "pt": "Ondas",
+  "ru": "Волны",
+  "tr": "Dalgalar",
+  "zh": "波浪"
+ },
+ "payload": "a-waves.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-sun-rays",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "sparkle",
+  "star",
+  "shine",
+  "glitter",
+  "magic",
+  "animated"
+ ],
+ "title": {
+  "en": "Sun rays",
+  "ar": "أشعة الشمس",
+  "de": "Sonnenstrahlen",
+  "es": "Rayos de sol",
+  "fr": "Rayons de soleil",
+  "id": "Sinar matahari",
+  "ja": "太陽光線",
+  "ko": "햇살",
+  "pt": "Raios de sol",
+  "ru": "Лучи солнца",
+  "tr": "Güneş ışınları",
+  "zh": "阳光"
+ },
+ "payload": "a-sun-rays.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

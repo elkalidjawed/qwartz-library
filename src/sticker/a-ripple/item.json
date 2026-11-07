@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-ripple",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Ripple",
+  "ar": "تموج",
+  "de": "Welle",
+  "es": "Onda",
+  "fr": "Ondulation",
+  "id": "Riak",
+  "ja": "波紋",
+  "ko": "물결",
+  "pt": "Ondulação",
+  "ru": "Рябь",
+  "tr": "Dalgacık",
+  "zh": "涟漪"
+ },
+ "payload": "a-ripple.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

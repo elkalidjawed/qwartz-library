@@ -1,0 +1,32 @@
+{
+ "id": "textanim.underwater",
+ "type": "textanim",
+ "category": "TextLoop",
+ "tags": [
+  "underwater",
+  "wave",
+  "wobble",
+  "water",
+  "dream"
+ ],
+ "title": {
+  "en": "Underwater",
+  "ar": "تحت الماء",
+  "de": "Unter Wasser",
+  "es": "Bajo el agua",
+  "fr": "Sous l'eau",
+  "id": "Bawah air",
+  "ja": "水中",
+  "ko": "물속",
+  "pt": "Debaixo d'água",
+  "ru": "Под водой",
+  "tr": "Su altında",
+  "zh": "水下"
+ },
+ "payload": "underwater.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

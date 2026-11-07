@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-glitter-rain",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "sparkle",
+  "star",
+  "shine",
+  "glitter",
+  "magic",
+  "animated"
+ ],
+ "title": {
+  "en": "Glitter rain",
+  "ar": "مطر لامع",
+  "de": "Glitzerregen",
+  "es": "Lluvia de brillos",
+  "fr": "Pluie de paillettes",
+  "id": "Hujan glitter",
+  "ja": "キラキラの雨",
+  "ko": "반짝이 비",
+  "pt": "Chuva de glitter",
+  "ru": "Блёстки",
+  "tr": "Simli yağmur",
+  "zh": "闪粉雨"
+ },
+ "payload": "a-glitter-rain.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

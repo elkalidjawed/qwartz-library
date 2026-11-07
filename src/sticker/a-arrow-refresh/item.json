@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-arrow-refresh",
+ "type": "sticker",
+ "category": "Arrows",
+ "tags": [
+  "arrow",
+  "point",
+  "direction",
+  "pointer",
+  "animated"
+ ],
+ "title": {
+  "en": "Refresh arrows",
+  "ar": "أسهم التحديث",
+  "de": "Aktualisieren",
+  "es": "Flechas de recarga",
+  "fr": "Actualiser",
+  "id": "Panah muat ulang",
+  "ja": "更新矢印",
+  "ko": "새로고침",
+  "pt": "Atualizar",
+  "ru": "Обновить",
+  "tr": "Yenile oku",
+  "zh": "刷新箭头"
+ },
+ "payload": "a-arrow-refresh.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

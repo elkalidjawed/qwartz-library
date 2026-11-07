@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-bubble-thought",
+ "type": "sticker",
+ "category": "Bubbles",
+ "tags": [
+  "speech",
+  "bubble",
+  "talk",
+  "chat",
+  "say",
+  "animated"
+ ],
+ "title": {
+  "en": "Thought bubble",
+  "ar": "فقاعة تفكير",
+  "de": "Gedankenblase",
+  "es": "Burbuja de pensamiento",
+  "fr": "Bulle de pensée",
+  "id": "Balon pikiran",
+  "ja": "考え吹き出し",
+  "ko": "생각 말풍선",
+  "pt": "Balão de pensamento",
+  "ru": "Облачко мыслей",
+  "tr": "Düşünce balonu",
+  "zh": "思考气泡"
+ },
+ "payload": "a-bubble-thought.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

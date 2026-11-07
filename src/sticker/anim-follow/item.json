@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-follow",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Follow",
+  "ar": "متابعة",
+  "de": "Folgen",
+  "es": "Seguir",
+  "fr": "Suivre",
+  "id": "Ikuti",
+  "ja": "フォロー",
+  "ko": "팔로우",
+  "pt": "Seguir",
+  "ru": "Подписаться",
+  "tr": "Takip et",
+  "zh": "关注"
+ },
+ "payload": "anim-follow.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

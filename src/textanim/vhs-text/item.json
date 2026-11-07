@@ -1,0 +1,32 @@
+{
+ "id": "textanim.vhs-text",
+ "type": "textanim",
+ "category": "TextLoop",
+ "tags": [
+  "vhs",
+  "retro",
+  "tape",
+  "glitch",
+  "80s"
+ ],
+ "title": {
+  "en": "VHS text",
+  "ar": "نص VHS",
+  "de": "VHS-Text",
+  "es": "Texto VHS",
+  "fr": "Texte VHS",
+  "id": "Teks VHS",
+  "ja": "VHSテキスト",
+  "ko": "VHS 텍스트",
+  "pt": "Texto VHS",
+  "ru": "Текст VHS",
+  "tr": "VHS yazı",
+  "zh": "VHS 文字"
+ },
+ "payload": "vhs-text.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

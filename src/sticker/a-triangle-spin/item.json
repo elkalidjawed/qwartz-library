@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-triangle-spin",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Spinning triangle",
+  "ar": "مثلث يدور",
+  "de": "Drehendes Dreieck",
+  "es": "Triángulo girando",
+  "fr": "Triangle tournant",
+  "id": "Segitiga berputar",
+  "ja": "回転する三角",
+  "ko": "도는 삼각형",
+  "pt": "Triângulo girando",
+  "ru": "Вращающийся треугольник",
+  "tr": "Dönen üçgen",
+  "zh": "旋转三角"
+ },
+ "payload": "a-triangle-spin.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

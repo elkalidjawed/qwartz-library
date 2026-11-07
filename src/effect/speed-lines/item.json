@@ -1,0 +1,32 @@
+{
+ "id": "effect.speed-lines",
+ "type": "effect",
+ "category": "Motion",
+ "tags": [
+  "speed",
+  "lines",
+  "comic",
+  "anime",
+  "manga"
+ ],
+ "title": {
+  "en": "Speed lines",
+  "ar": "خطوط السرعة",
+  "de": "Speedlines",
+  "es": "Líneas de velocidad",
+  "fr": "Lignes de vitesse",
+  "id": "Garis kecepatan",
+  "ja": "集中線",
+  "ko": "집중선",
+  "pt": "Linhas de velocidade",
+  "ru": "Линии скорости",
+  "tr": "Hız çizgileri",
+  "zh": "速度线"
+ },
+ "payload": "speed-lines.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

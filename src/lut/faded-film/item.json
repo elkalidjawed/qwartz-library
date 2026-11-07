@@ -1,0 +1,35 @@
+{
+ "id": "lut.faded-film",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "faded",
+  "film",
+  "matte",
+  "retro",
+  "analog",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Faded film",
+  "ar": "فيلم باهت",
+  "de": "Verblasster Film",
+  "es": "Película desvaída",
+  "fr": "Film délavé",
+  "id": "Film pudar",
+  "ja": "褪色フィルム",
+  "ko": "바랜 필름",
+  "pt": "Filme desbotado",
+  "ru": "Выцветшая плёнка",
+  "tr": "Solgun film",
+  "zh": "褪色胶片"
+ },
+ "payload": "faded-film.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

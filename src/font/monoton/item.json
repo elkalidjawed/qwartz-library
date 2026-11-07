@@ -1,0 +1,37 @@
+{
+ "id": "font.monoton",
+ "type": "font",
+ "category": "Display",
+ "tags": [
+  "neon",
+  "retro",
+  "lines",
+  "80s",
+  "disco",
+  "font"
+ ],
+ "title": {
+  "en": "Monoton",
+  "ar": "Monoton",
+  "de": "Monoton",
+  "es": "Monoton",
+  "fr": "Monoton",
+  "id": "Monoton",
+  "ja": "Monoton",
+  "ko": "Monoton",
+  "pt": "Monoton",
+  "ru": "Monoton",
+  "tr": "Monoton",
+  "zh": "Monoton"
+ },
+ "payload": "monoton.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "Vernon Adams",
+  "source": "https://github.com/google/fonts/tree/main/ofl/monoton"
+ },
+ "extra": {
+  "family": "Monoton"
+ }
+}

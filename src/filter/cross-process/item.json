@@ -1,0 +1,32 @@
+{
+ "id": "filter.cross-process",
+ "type": "filter",
+ "category": "Vintage",
+ "tags": [
+  "cross",
+  "process",
+  "lomo",
+  "leak",
+  "yellow"
+ ],
+ "title": {
+  "en": "Cross process",
+  "ar": "معالجة متقاطعة",
+  "de": "Crossentwicklung",
+  "es": "Proceso cruzado",
+  "fr": "Traitement croisé",
+  "id": "Proses silang",
+  "ja": "クロスプロセス",
+  "ko": "크로스 프로세스",
+  "pt": "Processo cruzado",
+  "ru": "Кросс-процесс",
+  "tr": "Çapraz işlem",
+  "zh": "交叉冲洗"
+ },
+ "payload": "cross-process.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

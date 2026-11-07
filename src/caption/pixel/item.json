@@ -1,0 +1,32 @@
+{
+ "id": "caption.pixel",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "pixel",
+  "8-bit",
+  "retro",
+  "arcade",
+  "game"
+ ],
+ "title": {
+  "en": "Pixel game",
+  "ar": "لعبة بكسل",
+  "de": "Pixelspiel",
+  "es": "Juego de píxeles",
+  "fr": "Jeu pixel",
+  "id": "Game piksel",
+  "ja": "ピクセルゲーム",
+  "ko": "픽셀 게임",
+  "pt": "Jogo pixel",
+  "ru": "Пиксельная игра",
+  "tr": "Piksel oyun",
+  "zh": "像素游戏"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

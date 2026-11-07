@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-wink",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Wink",
+  "ar": "غمزة",
+  "de": "Zwinkern",
+  "es": "Guiño",
+  "fr": "Clin d'œil",
+  "id": "Kedip",
+  "ja": "ウインク",
+  "ko": "윙크",
+  "pt": "Piscadinha",
+  "ru": "Подмигивание",
+  "tr": "Göz kırpma",
+  "zh": "眨眼"
+ },
+ "payload": "a-wink.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

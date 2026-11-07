@@ -1,0 +1,31 @@
+{
+ "id": "textanim.blur-in",
+ "type": "textanim",
+ "category": "TextIn",
+ "tags": [
+  "blur",
+  "focus",
+  "fade",
+  "in"
+ ],
+ "title": {
+  "en": "Blur in",
+  "ar": "ظهور من الضبابية",
+  "de": "Unscharf einblenden",
+  "es": "Entrada desenfocada",
+  "fr": "Apparition floue",
+  "id": "Muncul dari blur",
+  "ja": "ぼかしイン",
+  "ko": "블러 인",
+  "pt": "Entrada desfocada",
+  "ru": "Проявление из размытия",
+  "tr": "Bulanıktan giriş",
+  "zh": "模糊淡入"
+ },
+ "payload": "blur-in.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "overlay.fireworks",
+ "type": "overlay",
+ "category": "Particles",
+ "tags": [
+  "fireworks",
+  "celebration",
+  "party",
+  "new year",
+  "sparks"
+ ],
+ "title": {
+  "en": "Fireworks",
+  "ar": "ألعاب نارية",
+  "de": "Feuerwerk",
+  "es": "Fuegos artificiales",
+  "fr": "Feux d'artifice",
+  "id": "Kembang api",
+  "ja": "花火",
+  "ko": "불꽃놀이",
+  "pt": "Fogos de artifício",
+  "ru": "Фейерверк",
+  "tr": "Havai fişek",
+  "zh": "烟花"
+ },
+ "payload": "fireworks.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

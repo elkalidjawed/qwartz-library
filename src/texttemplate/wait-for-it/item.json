@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.wait-for-it",
+ "type": "texttemplate",
+ "category": "Social",
+ "tags": [
+  "wait",
+  "suspense",
+  "funny",
+  "reaction",
+  "meme"
+ ],
+ "title": {
+  "en": "Wait for it",
+  "ar": "انتظر",
+  "de": "Warte ab",
+  "es": "Espera",
+  "fr": "Attends",
+  "id": "Tunggu",
+  "ja": "見ててね",
+  "ko": "기다려 봐",
+  "pt": "Espera só",
+  "ru": "Подожди",
+  "tr": "Bekle",
+  "zh": "等着看"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "overlay.glitch-flashes",
+ "type": "overlay",
+ "category": "Glitch",
+ "tags": [
+  "glitch",
+  "digital",
+  "blocks",
+  "lines",
+  "error"
+ ],
+ "title": {
+  "en": "Glitch flashes",
+  "ar": "ومضات خلل",
+  "de": "Glitch-Blitze",
+  "es": "Destellos glitch",
+  "fr": "Flashs glitch",
+  "id": "Kilatan glitch",
+  "ja": "グリッチフラッシュ",
+  "ko": "글리치 플래시",
+  "pt": "Flashes de glitch",
+  "ru": "Глитч-вспышки",
+  "tr": "Glitch parlamaları",
+  "zh": "故障闪烁"
+ },
+ "payload": "glitch-flashes.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

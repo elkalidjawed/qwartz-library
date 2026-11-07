@@ -1,0 +1,32 @@
+{
+ "id": "transition.tv-switch",
+ "type": "transition",
+ "category": "Basic",
+ "tags": [
+  "tv",
+  "retro",
+  "switch",
+  "off",
+  "old"
+ ],
+ "title": {
+  "en": "TV switch",
+  "ar": "تبديل التلفاز",
+  "de": "TV-Umschalten",
+  "es": "Cambio de TV",
+  "fr": "Télé rétro",
+  "id": "Ganti TV",
+  "ja": "テレビ切替",
+  "ko": "TV 전환",
+  "pt": "Troca de TV",
+  "ru": "Переключение ТВ",
+  "tr": "TV geçişi",
+  "zh": "电视切换"
+ },
+ "payload": "tv-switch.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

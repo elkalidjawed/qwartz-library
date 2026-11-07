@@ -1,0 +1,34 @@
+{
+ "id": "sticker.magnifier",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "search",
+  "magnifier",
+  "find",
+  "look",
+  "zoom",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Magnifying glass",
+  "ar": "عدسة مكبرة",
+  "de": "Lupe",
+  "es": "Lupa",
+  "fr": "Loupe",
+  "id": "Kaca pembesar",
+  "ja": "虫めがね",
+  "ko": "돋보기",
+  "pt": "Lupa",
+  "ru": "Лупа",
+  "tr": "Büyüteç",
+  "zh": "放大镜"
+ },
+ "payload": "magnifier.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

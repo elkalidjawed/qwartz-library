@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-zigzag",
+ "type": "sticker",
+ "category": "Doodles",
+ "tags": [
+  "doodle",
+  "draw",
+  "hand",
+  "scribble",
+  "animated"
+ ],
+ "title": {
+  "en": "Zigzag",
+  "ar": "خط متعرج حاد",
+  "de": "Zickzack",
+  "es": "Zigzag",
+  "fr": "Zigzag",
+  "id": "Zig-zag",
+  "ja": "ジグザグ",
+  "ko": "지그재그",
+  "pt": "Zigue-zague",
+  "ru": "Зигзаг",
+  "tr": "Zikzak",
+  "zh": "之字形"
+ },
+ "payload": "a-zigzag.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.ask-me",
+ "type": "texttemplate",
+ "category": "Social",
+ "tags": [
+  "question",
+  "ask me",
+  "q&a",
+  "story",
+  "poll"
+ ],
+ "title": {
+  "en": "Ask me anything",
+  "ar": "اسألني أي شيء",
+  "de": "Frag mich was",
+  "es": "Pregúntame",
+  "fr": "Pose-moi une question",
+  "id": "Tanya apa saja",
+  "ja": "質問どうぞ",
+  "ko": "무엇이든 물어보세요",
+  "pt": "Me pergunte",
+  "ru": "Спроси меня",
+  "tr": "Bana sor",
+  "zh": "随便问我"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

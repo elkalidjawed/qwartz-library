@@ -1,0 +1,32 @@
+{
+ "id": "caption.sticker-script",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "sticker",
+  "script",
+  "pink",
+  "cute",
+  "retro"
+ ],
+ "title": {
+  "en": "Sticker script",
+  "ar": "ملصق مكتوب",
+  "de": "Sticker-Schrift",
+  "es": "Letra pegatina",
+  "fr": "Script autocollant",
+  "id": "Tulisan stiker",
+  "ja": "ステッカー文字",
+  "ko": "스티커 손글씨",
+  "pt": "Letra adesivo",
+  "ru": "Стикер-надпись",
+  "tr": "Çıkartma yazı",
+  "zh": "贴纸手写体"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

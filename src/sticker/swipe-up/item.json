@@ -1,0 +1,34 @@
+{
+ "id": "sticker.swipe-up",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "swipe",
+  "up",
+  "story",
+  "link",
+  "chevron",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Swipe up",
+  "ar": "اسحب للأعلى",
+  "de": "Nach oben wischen",
+  "es": "Desliza hacia arriba",
+  "fr": "Glissez vers le haut",
+  "id": "Geser ke atas",
+  "ja": "上にスワイプ",
+  "ko": "위로 스와이프",
+  "pt": "Deslize para cima",
+  "ru": "Свайп вверх",
+  "tr": "Yukarı kaydır",
+  "zh": "上滑"
+ },
+ "payload": "swipe-up.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-lol",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "LOL",
+  "ar": "LOL",
+  "de": "LOL",
+  "es": "LOL",
+  "fr": "LOL",
+  "id": "LOL",
+  "ja": "LOL",
+  "ko": "LOL",
+  "pt": "LOL",
+  "ru": "LOL",
+  "tr": "LOL",
+  "zh": "LOL"
+ },
+ "payload": "anim-lol.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

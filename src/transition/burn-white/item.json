@@ -1,0 +1,32 @@
+{
+ "id": "transition.burn-white",
+ "type": "transition",
+ "category": "Light",
+ "tags": [
+  "burn",
+  "white",
+  "glow",
+  "bright",
+  "overexpose"
+ ],
+ "title": {
+  "en": "Burn to white",
+  "ar": "احتراق إلى الأبيض",
+  "de": "Ins Weiße brennen",
+  "es": "Quemar a blanco",
+  "fr": "Brûlure au blanc",
+  "id": "Terbakar putih",
+  "ja": "白へバーン",
+  "ko": "하얗게 번",
+  "pt": "Queimar para branco",
+  "ru": "Выжигание в белый",
+  "tr": "Beyaza yanma",
+  "zh": "烧白"
+ },
+ "payload": "burn-white.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-face-cry",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Crying face",
+  "ar": "وجه باكٍ",
+  "de": "Weinendes Gesicht",
+  "es": "Cara llorando",
+  "fr": "Visage en pleurs",
+  "id": "Wajah menangis",
+  "ja": "泣き顔",
+  "ko": "우는 얼굴",
+  "pt": "Cara chorando",
+  "ru": "Плачущее лицо",
+  "tr": "Ağlayan yüz",
+  "zh": "哭脸"
+ },
+ "payload": "anim-face-cry.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

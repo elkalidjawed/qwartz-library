@@ -1,0 +1,32 @@
+{
+ "id": "effect.dizzy",
+ "type": "effect",
+ "category": "Motion",
+ "tags": [
+  "dizzy",
+  "double",
+  "drunk",
+  "ghost",
+  "vision"
+ ],
+ "title": {
+  "en": "Dizzy",
+  "ar": "دوار",
+  "de": "Schwindelig",
+  "es": "Mareo",
+  "fr": "Vertige",
+  "id": "Pusing",
+  "ja": "めまい",
+  "ko": "어지러움",
+  "pt": "Tontura",
+  "ru": "Головокружение",
+  "tr": "Baş dönmesi",
+  "zh": "眩晕"
+ },
+ "payload": "dizzy.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

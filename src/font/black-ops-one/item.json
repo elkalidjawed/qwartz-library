@@ -1,0 +1,36 @@
+{
+ "id": "font.black-ops-one",
+ "type": "font",
+ "category": "Display",
+ "tags": [
+  "military",
+  "stencil",
+  "gaming",
+  "action",
+  "font"
+ ],
+ "title": {
+  "en": "Black Ops One",
+  "ar": "Black Ops One",
+  "de": "Black Ops One",
+  "es": "Black Ops One",
+  "fr": "Black Ops One",
+  "id": "Black Ops One",
+  "ja": "Black Ops One",
+  "ko": "Black Ops One",
+  "pt": "Black Ops One",
+  "ru": "Black Ops One",
+  "tr": "Black Ops One",
+  "zh": "Black Ops One"
+ },
+ "payload": "black-ops-one.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Black-Ops Project Authors",
+  "source": "https://github.com/google/fonts/tree/main/ofl/blackopsone"
+ },
+ "extra": {
+  "family": "Black Ops One"
+ }
+}

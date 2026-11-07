@@ -1,0 +1,36 @@
+{
+ "id": "font.quicksand",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "rounded",
+  "light",
+  "geometric",
+  "minimal",
+  "font"
+ ],
+ "title": {
+  "en": "Quicksand",
+  "ar": "Quicksand",
+  "de": "Quicksand",
+  "es": "Quicksand",
+  "fr": "Quicksand",
+  "id": "Quicksand",
+  "ja": "Quicksand",
+  "ko": "Quicksand",
+  "pt": "Quicksand",
+  "ru": "Quicksand",
+  "tr": "Quicksand",
+  "zh": "Quicksand"
+ },
+ "payload": "quicksand.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Quicksand Project Authors (Andrew Paglinawan)",
+  "source": "https://github.com/google/fonts/tree/main/ofl/quicksand"
+ },
+ "extra": {
+  "family": "Quicksand"
+ }
+}

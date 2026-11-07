@@ -1,0 +1,36 @@
+{
+ "id": "font.space-grotesk",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "tech",
+  "modern",
+  "grotesk",
+  "geometric",
+  "font"
+ ],
+ "title": {
+  "en": "Space Grotesk",
+  "ar": "Space Grotesk",
+  "de": "Space Grotesk",
+  "es": "Space Grotesk",
+  "fr": "Space Grotesk",
+  "id": "Space Grotesk",
+  "ja": "Space Grotesk",
+  "ko": "Space Grotesk",
+  "pt": "Space Grotesk",
+  "ru": "Space Grotesk",
+  "tr": "Space Grotesk",
+  "zh": "Space Grotesk"
+ },
+ "payload": "space-grotesk.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Space Grotesk Project Authors (Florian Karsten)",
+  "source": "https://github.com/google/fonts/tree/main/ofl/spacegrotesk"
+ },
+ "extra": {
+  "family": "Space Grotesk"
+ }
+}

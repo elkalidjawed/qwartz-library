@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-glow",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "Glowing frame",
+  "ar": "إطار متوهج",
+  "de": "Leuchtrahmen",
+  "es": "Marco brillante",
+  "fr": "Cadre lumineux",
+  "id": "Bingkai bercahaya",
+  "ja": "光る枠",
+  "ko": "빛나는 프레임",
+  "pt": "Moldura brilhante",
+  "ru": "Светящаяся рамка",
+  "tr": "Parlayan çerçeve",
+  "zh": "发光框"
+ },
+ "payload": "a-frame-glow.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

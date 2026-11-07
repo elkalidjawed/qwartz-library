@@ -1,0 +1,32 @@
+{
+ "id": "effect.rec-frame",
+ "type": "effect",
+ "category": "Frames",
+ "tags": [
+  "rec",
+  "camera",
+  "viewfinder",
+  "recording",
+  "vlog"
+ ],
+ "title": {
+  "en": "REC camera",
+  "ar": "كاميرا تسجيل",
+  "de": "REC-Kamera",
+  "es": "Cámara REC",
+  "fr": "Caméra REC",
+  "id": "Kamera REC",
+  "ja": "録画カメラ",
+  "ko": "REC 카메라",
+  "pt": "Câmera REC",
+  "ru": "Камера REC",
+  "tr": "REC kamera",
+  "zh": "录像取景框"
+ },
+ "payload": "rec-frame.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

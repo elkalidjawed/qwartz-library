@@ -1,0 +1,32 @@
+{
+ "id": "effect.tunnel",
+ "type": "effect",
+ "category": "Distort",
+ "tags": [
+  "tunnel",
+  "infinite",
+  "zoom",
+  "frames",
+  "droste"
+ ],
+ "title": {
+  "en": "Picture tunnel",
+  "ar": "نفق الصور",
+  "de": "Bildtunnel",
+  "es": "Túnel de imagen",
+  "fr": "Tunnel d'images",
+  "id": "Terowongan gambar",
+  "ja": "画面トンネル",
+  "ko": "화면 터널",
+  "pt": "Túnel de imagem",
+  "ru": "Туннель кадров",
+  "tr": "Görüntü tüneli",
+  "zh": "画面隧道"
+ },
+ "payload": "tunnel.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

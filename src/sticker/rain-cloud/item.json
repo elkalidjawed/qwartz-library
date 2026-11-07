@@ -1,0 +1,34 @@
+{
+ "id": "sticker.rain-cloud",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "rain",
+  "cloud",
+  "weather",
+  "sad",
+  "rainy",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Rain cloud",
+  "ar": "سحابة ممطرة",
+  "de": "Regenwolke",
+  "es": "Nube de lluvia",
+  "fr": "Nuage de pluie",
+  "id": "Awan hujan",
+  "ja": "雨雲",
+  "ko": "비구름",
+  "pt": "Nuvem de chuva",
+  "ru": "Дождевая туча",
+  "tr": "Yağmur bulutu",
+  "zh": "雨云"
+ },
+ "payload": "rain-cloud.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

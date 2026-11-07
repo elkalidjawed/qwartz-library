@@ -1,0 +1,32 @@
+{
+ "id": "effect.security-cam",
+ "type": "effect",
+ "category": "Frames",
+ "tags": [
+  "security",
+  "cctv",
+  "camera",
+  "surveillance",
+  "black and white"
+ ],
+ "title": {
+  "en": "Security camera",
+  "ar": "كاميرا مراقبة",
+  "de": "Überwachungskamera",
+  "es": "Cámara de seguridad",
+  "fr": "Caméra de surveillance",
+  "id": "Kamera keamanan",
+  "ja": "防犯カメラ",
+  "ko": "CCTV",
+  "pt": "Câmera de segurança",
+  "ru": "Камера наблюдения",
+  "tr": "Güvenlik kamerası",
+  "zh": "监控摄像头"
+ },
+ "payload": "security-cam.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

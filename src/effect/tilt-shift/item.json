@@ -1,0 +1,32 @@
+{
+ "id": "effect.tilt-shift",
+ "type": "effect",
+ "category": "Blur",
+ "tags": [
+  "tilt",
+  "shift",
+  "miniature",
+  "blur",
+  "focus"
+ ],
+ "title": {
+  "en": "Tilt-shift",
+  "ar": "إمالة وإزاحة",
+  "de": "Tilt-Shift",
+  "es": "Tilt-shift",
+  "fr": "Tilt-shift",
+  "id": "Tilt-shift",
+  "ja": "ミニチュア風",
+  "ko": "틸트 시프트",
+  "pt": "Tilt-shift",
+  "ru": "Тилт-шифт",
+  "tr": "Tilt-shift",
+  "zh": "移轴"
+ },
+ "payload": "tilt-shift.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

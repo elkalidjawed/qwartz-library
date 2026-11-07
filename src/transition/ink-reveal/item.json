@@ -1,0 +1,32 @@
+{
+ "id": "transition.ink-reveal",
+ "type": "transition",
+ "category": "Wipe",
+ "tags": [
+  "ink",
+  "organic",
+  "blot",
+  "reveal",
+  "paint"
+ ],
+ "title": {
+  "en": "Ink reveal",
+  "ar": "كشف بالحبر",
+  "de": "Tinten-Enthüllung",
+  "es": "Revelado de tinta",
+  "fr": "Révélation à l'encre",
+  "id": "Tinta menyebar",
+  "ja": "インクリビール",
+  "ko": "잉크 공개",
+  "pt": "Revelar com tinta",
+  "ru": "Чернильное проявление",
+  "tr": "Mürekkep açılışı",
+  "zh": "墨迹揭示"
+ },
+ "payload": "ink-reveal.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

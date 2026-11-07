@@ -1,0 +1,32 @@
+{
+ "id": "effect.beat-color",
+ "type": "effect",
+ "category": "Basic",
+ "tags": [
+  "beat",
+  "music",
+  "color",
+  "black and white",
+  "pulse"
+ ],
+ "title": {
+  "en": "Beat colour pop",
+  "ar": "لون مع الإيقاع",
+  "de": "Farbe im Takt",
+  "es": "Color al ritmo",
+  "fr": "Couleur au rythme",
+  "id": "Warna ikut ketukan",
+  "ja": "ビートでカラー",
+  "ko": "비트 컬러 팝",
+  "pt": "Cor na batida",
+  "ru": "Цвет в такт",
+  "tr": "Ritimle renk",
+  "zh": "节拍变色"
+ },
+ "payload": "beat-color.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

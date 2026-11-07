@@ -1,0 +1,35 @@
+{
+ "id": "sticker.a-comments-count",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "social",
+  "subscribe",
+  "like",
+  "follow",
+  "youtube",
+  "tiktok",
+  "animated"
+ ],
+ "title": {
+  "en": "Comment count",
+  "ar": "عدد التعليقات",
+  "de": "Kommentarzähler",
+  "es": "Comentarios",
+  "fr": "Commentaires",
+  "id": "Jumlah komentar",
+  "ja": "コメント数",
+  "ko": "댓글 수",
+  "pt": "Comentários",
+  "ru": "Комментарии",
+  "tr": "Yorum sayısı",
+  "zh": "评论数"
+ },
+ "payload": "a-comments-count.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

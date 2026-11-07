@@ -1,0 +1,130 @@
+{
+ "id": "lib-wait-for-it",
+ "name": "Wait for it",
+ "category": "Social",
+ "tags": [
+  "wait",
+  "suspense",
+  "funny",
+  "reaction",
+  "meme"
+ ],
+ "duration": 2469600000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 0,
+    "duration": 2469600000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.3,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "shake",
+     "duration": 635040000
+    },
+    "effects": [],
+    "text": {
+     "text": "WAIT FOR IT...",
+     "font": "Luckiest Guy",
+     "size": 96,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      0.8824,
+      0.302,
+      1.0
+     ],
+     "strokeColor": [
+      0.0667,
+      0.0667,
+      0.0667,
+      1.0
+     ],
+     "strokeWidth": 8,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 6,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

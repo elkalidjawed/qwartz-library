@@ -1,0 +1,32 @@
+{
+ "id": "overlay.soft-light-pulse",
+ "type": "overlay",
+ "category": "LightLeaks",
+ "tags": [
+  "glow",
+  "pulse",
+  "soft",
+  "light",
+  "dreamy"
+ ],
+ "title": {
+  "en": "Soft light pulse",
+  "ar": "نبض ضوء ناعم",
+  "de": "Sanftes Lichtpulsieren",
+  "es": "Pulso de luz suave",
+  "fr": "Pulsation de lumière douce",
+  "id": "Denyut cahaya lembut",
+  "ja": "やわらかな光の脈動",
+  "ko": "부드러운 빛 펄스",
+  "pt": "Pulso de luz suave",
+  "ru": "Мягкая пульсация света",
+  "tr": "Yumuşak ışık nabzı",
+  "zh": "柔光脉动"
+ },
+ "payload": "soft-light-pulse.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

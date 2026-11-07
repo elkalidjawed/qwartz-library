@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-arrow-bounce",
+ "type": "sticker",
+ "category": "Arrows",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Bouncing arrow",
+  "ar": "سهم يقفز",
+  "de": "Hüpfender Pfeil",
+  "es": "Flecha que rebota",
+  "fr": "Flèche rebondissante",
+  "id": "Panah memantul",
+  "ja": "跳ねる矢印",
+  "ko": "튀는 화살표",
+  "pt": "Seta saltitante",
+  "ru": "Прыгающая стрелка",
+  "tr": "Zıplayan ok",
+  "zh": "弹跳箭头"
+ },
+ "payload": "anim-arrow-bounce.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

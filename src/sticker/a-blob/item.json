@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-blob",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Blob",
+  "ar": "شكل مرن",
+  "de": "Klecks",
+  "es": "Mancha",
+  "fr": "Tache",
+  "id": "Gumpalan",
+  "ja": "ブロブ",
+  "ko": "블롭",
+  "pt": "Bolha",
+  "ru": "Клякса",
+  "tr": "Damla",
+  "zh": "流体形状"
+ },
+ "payload": "a-blob.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

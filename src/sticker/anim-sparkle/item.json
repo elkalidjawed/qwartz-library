@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-sparkle",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Sparkle",
+  "ar": "بريق",
+  "de": "Funkeln",
+  "es": "Brillo",
+  "fr": "Scintillement",
+  "id": "Kilauan",
+  "ja": "キラキラ",
+  "ko": "반짝반짝",
+  "pt": "Cintilar",
+  "ru": "Искры",
+  "tr": "Pırıltı",
+  "zh": "闪闪"
+ },
+ "payload": "anim-sparkle.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

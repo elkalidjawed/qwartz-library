@@ -1,0 +1,32 @@
+{
+ "id": "caption.dark-glass",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "glass",
+  "dark",
+  "box",
+  "karaoke",
+  "sleek"
+ ],
+ "title": {
+  "en": "Dark glass",
+  "ar": "زجاج داكن",
+  "de": "Dunkles Glas",
+  "es": "Cristal oscuro",
+  "fr": "Verre sombre",
+  "id": "Kaca gelap",
+  "ja": "ダークガラス",
+  "ko": "다크 글래스",
+  "pt": "Vidro escuro",
+  "ru": "Тёмное стекло",
+  "tr": "Koyu cam",
+  "zh": "深色玻璃"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

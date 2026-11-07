@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.gamer",
+  "name": "Gamer",
+  "animation": "bounce",
+  "font": "Luckiest Guy",
+  "size": 84,
+  "bold": false,
+  "italic": false,
+  "uppercase": true,
+  "color": "#ffffffff",
+  "stroke": "#3b0f73ff",
+  "strokeWidth": 9,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#1a0636ff",
+  "shadowBlur": 0,
+  "shadowX": 0,
+  "shadowY": 7,
+  "letterSpacing": 0,
+  "highlight": "#4dff7cff",
+  "maxWords": 3,
+  "y": 0.3,
+  "emoji": false
+ }
+}

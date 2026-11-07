@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-omg-shake",
+ "type": "sticker",
+ "category": "Labels",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "OMG shake",
+  "ar": "OMG مهتز",
+  "de": "OMG-Wackeln",
+  "es": "OMG temblando",
+  "fr": "OMG tremblant",
+  "id": "OMG bergetar",
+  "ja": "OMG揺れ",
+  "ko": "OMG 흔들기",
+  "pt": "OMG tremendo",
+  "ru": "OMG тряска",
+  "tr": "OMG sallanma",
+  "zh": "OMG 抖动"
+ },
+ "payload": "anim-omg-shake.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

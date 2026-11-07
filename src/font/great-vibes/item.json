@@ -1,0 +1,37 @@
+{
+ "id": "font.great-vibes",
+ "type": "font",
+ "category": "Script",
+ "tags": [
+  "script",
+  "wedding",
+  "elegant",
+  "calligraphy",
+  "cursive",
+  "font"
+ ],
+ "title": {
+  "en": "Great Vibes",
+  "ar": "Great Vibes",
+  "de": "Great Vibes",
+  "es": "Great Vibes",
+  "fr": "Great Vibes",
+  "id": "Great Vibes",
+  "ja": "Great Vibes",
+  "ko": "Great Vibes",
+  "pt": "Great Vibes",
+  "ru": "Great Vibes",
+  "tr": "Great Vibes",
+  "zh": "Great Vibes"
+ },
+ "payload": "great-vibes.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Great Vibes Pro Project Authors (TypeSETit)",
+  "source": "https://github.com/google/fonts/tree/main/ofl/greatvibes"
+ },
+ "extra": {
+  "family": "Great Vibes"
+ }
+}

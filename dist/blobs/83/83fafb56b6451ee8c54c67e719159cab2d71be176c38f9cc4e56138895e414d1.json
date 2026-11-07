@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.elegant-serif",
+  "name": "Elegant serif",
+  "animation": "rise",
+  "font": "Playfair Display",
+  "size": 70,
+  "bold": false,
+  "italic": true,
+  "uppercase": false,
+  "color": "#ffffffff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffe7b880",
+  "glowSize": 14,
+  "gradient": "#ffffff00",
+  "shadow": "#00000080",
+  "shadowBlur": 8,
+  "shadowX": 0,
+  "shadowY": 2,
+  "letterSpacing": 1,
+  "highlight": "#ffd98aff",
+  "maxWords": 4,
+  "y": 0.3,
+  "emoji": false
+ }
+}

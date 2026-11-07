@@ -1,0 +1,35 @@
+{
+ "id": "lut.night-blue",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "night",
+  "blue",
+  "moonlight",
+  "dark",
+  "cold",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Night blue",
+  "ar": "أزرق ليلي",
+  "de": "Nachtblau",
+  "es": "Azul noche",
+  "fr": "Bleu nuit",
+  "id": "Biru malam",
+  "ja": "ナイトブルー",
+  "ko": "나이트 블루",
+  "pt": "Azul noturno",
+  "ru": "Ночной синий",
+  "tr": "Gece mavisi",
+  "zh": "夜蓝"
+ },
+ "payload": "night-blue.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

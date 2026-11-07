@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.icy",
+  "name": "Icy",
+  "animation": "pop",
+  "font": "Archivo Black",
+  "size": 80,
+  "bold": false,
+  "italic": false,
+  "uppercase": true,
+  "color": "#ffffffff",
+  "stroke": "#0b2a5cff",
+  "strokeWidth": 5,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#43c6ffff",
+  "shadow": "#0b2a5c99",
+  "shadowBlur": 4,
+  "shadowX": 0,
+  "shadowY": 5,
+  "letterSpacing": 0,
+  "highlight": "#ffffffff",
+  "maxWords": 3,
+  "y": 0.3,
+  "emoji": false
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "overlay.bokeh-warm",
+ "type": "overlay",
+ "category": "Bokeh",
+ "tags": [
+  "bokeh",
+  "warm",
+  "lights",
+  "blur",
+  "golden"
+ ],
+ "title": {
+  "en": "Warm bokeh lights",
+  "ar": "أضواء بوكيه دافئة",
+  "de": "Warme Bokeh-Lichter",
+  "es": "Luces bokeh cálidas",
+  "fr": "Bokeh chaleureux",
+  "id": "Cahaya bokeh hangat",
+  "ja": "暖かいボケ光",
+  "ko": "따뜻한 보케 조명",
+  "pt": "Luzes bokeh quentes",
+  "ru": "Тёплое боке",
+  "tr": "Sıcak bokeh ışıkları",
+  "zh": "暖色散景光斑"
+ },
+ "payload": "bokeh-warm.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

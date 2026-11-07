@@ -1,0 +1,32 @@
+{
+ "id": "overlay.light-leak-warm",
+ "type": "overlay",
+ "category": "LightLeaks",
+ "tags": [
+  "light leak",
+  "warm",
+  "sweep",
+  "glow",
+  "sun"
+ ],
+ "title": {
+  "en": "Warm light sweep",
+  "ar": "ضوء دافئ متحرك",
+  "de": "Warmer Lichtschweif",
+  "es": "Barrido de luz cálida",
+  "fr": "Balayage de lumière chaude",
+  "id": "Sapuan cahaya hangat",
+  "ja": "暖かい光のスイープ",
+  "ko": "따뜻한 빛 스윕",
+  "pt": "Luz quente passando",
+  "ru": "Тёплый световой блик",
+  "tr": "Sıcak ışık süzülmesi",
+  "zh": "暖光扫过"
+ },
+ "payload": "light-leak-warm.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

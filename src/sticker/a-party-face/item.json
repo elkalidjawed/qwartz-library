@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-party-face",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Party face",
+  "ar": "وجه احتفال",
+  "de": "Partygesicht",
+  "es": "Cara de fiesta",
+  "fr": "Visage festif",
+  "id": "Wajah pesta",
+  "ja": "パーティー顔",
+  "ko": "파티 얼굴",
+  "pt": "Cara de festa",
+  "ru": "Праздник",
+  "tr": "Parti yüzü",
+  "zh": "派对脸"
+ },
+ "payload": "a-party-face.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "lut.punchy-color",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "punchy",
+  "vivid",
+  "commercial",
+  "bright",
+  "saturated",
+  "contrast",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Punchy color",
+  "ar": "ألوان قوية",
+  "de": "Kräftige Farben",
+  "es": "Color intenso",
+  "fr": "Couleurs éclatantes",
+  "id": "Warna tajam",
+  "ja": "パンチカラー",
+  "ko": "선명한 컬러",
+  "pt": "Cores vibrantes",
+  "ru": "Сочные цвета",
+  "tr": "Canlı renkler",
+  "zh": "鲜明色彩"
+ },
+ "payload": "punchy-color.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

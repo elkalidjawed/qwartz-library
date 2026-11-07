@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-arrow-point",
+ "type": "sticker",
+ "category": "Arrows",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Pointing arrow",
+  "ar": "سهم إشارة",
+  "de": "Zeigepfeil",
+  "es": "Flecha indicadora",
+  "fr": "Flèche pointeur",
+  "id": "Panah penunjuk",
+  "ja": "指し矢印",
+  "ko": "가리키는 화살표",
+  "pt": "Seta indicadora",
+  "ru": "Указатель",
+  "tr": "İşaret oku",
+  "zh": "指示箭头"
+ },
+ "payload": "anim-arrow-point.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

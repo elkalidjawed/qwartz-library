@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-hearts-float",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Floating hearts",
+  "ar": "قلوب طائرة",
+  "de": "Schwebende Herzen",
+  "es": "Corazones flotantes",
+  "fr": "Cœurs flottants",
+  "id": "Hati melayang",
+  "ja": "ふわふわハート",
+  "ko": "떠다니는 하트",
+  "pt": "Corações flutuantes",
+  "ru": "Парящие сердца",
+  "tr": "Uçuşan kalpler",
+  "zh": "漂浮爱心"
+ },
+ "payload": "anim-hearts-float.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

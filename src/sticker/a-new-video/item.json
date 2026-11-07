@@ -1,0 +1,35 @@
+{
+ "id": "sticker.a-new-video",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "social",
+  "subscribe",
+  "like",
+  "follow",
+  "youtube",
+  "tiktok",
+  "animated"
+ ],
+ "title": {
+  "en": "New video",
+  "ar": "فيديو جديد",
+  "de": "Neues Video",
+  "es": "Nuevo video",
+  "fr": "Nouvelle vidéo",
+  "id": "Video baru",
+  "ja": "新着動画",
+  "ko": "새 영상",
+  "pt": "Vídeo novo",
+  "ru": "Новое видео",
+  "tr": "Yeni video",
+  "zh": "新视频"
+ },
+ "payload": "a-new-video.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

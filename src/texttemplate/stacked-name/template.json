@@ -1,0 +1,373 @@
+{
+ "id": "lib-stacked-name",
+ "name": "Stacked name",
+ "category": "Lower thirds",
+ "tags": [
+  "name",
+  "title",
+  "interview",
+  "modern",
+  "pill"
+ ],
+ "duration": 3528000000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 3528000000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": -0.58,
+     "y": 0.6,
+     "width": 0.66,
+     "height": 0.1,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 1.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "slide-right",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "slide-left",
+     "duration": 282240000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 105840000,
+    "duration": 3245760000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": -0.29,
+     "y": 0.3,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "fade",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Taylor Brooks",
+     "font": "Montserrat",
+     "size": 56,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      0.0667,
+      0.0667,
+      0.0784,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 176400000,
+    "duration": 3351600000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 4,
+     "x": -0.66,
+     "y": 0.79,
+     "width": 0.48,
+     "height": 0.07,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 1.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "slide-right",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "slide-left",
+     "duration": 282240000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     0.3529,
+     0.2118,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 282240000,
+    "duration": 3069360000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": -0.33,
+     "y": 0.395,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "fade",
+     "duration": 282240000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Travel creator",
+     "font": "Montserrat",
+     "size": 32,
+     "bold": true,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 2,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

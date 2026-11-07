@@ -1,0 +1,31 @@
+{
+ "id": "transition.split-reveal",
+ "type": "transition",
+ "category": "Slide",
+ "tags": [
+  "split",
+  "reveal",
+  "halves",
+  "open"
+ ],
+ "title": {
+  "en": "Split reveal",
+  "ar": "كشف بالانقسام",
+  "de": "Teilen und zeigen",
+  "es": "Revelado dividido",
+  "fr": "Ouverture en deux",
+  "id": "Belah terbuka",
+  "ja": "分割リビール",
+  "ko": "분할 공개",
+  "pt": "Revelar dividido",
+  "ru": "Разделение",
+  "tr": "Bölünerek açılma",
+  "zh": "分裂揭示"
+ },
+ "payload": "split-reveal.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

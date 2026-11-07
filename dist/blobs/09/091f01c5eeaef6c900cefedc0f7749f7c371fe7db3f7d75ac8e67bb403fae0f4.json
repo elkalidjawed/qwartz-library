@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.pink-neon",
+  "name": "Pink neon",
+  "animation": "glow",
+  "font": "Righteous",
+  "size": 78,
+  "bold": false,
+  "italic": false,
+  "uppercase": false,
+  "color": "#fff0faff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ff2fa8f0",
+  "glowSize": 20,
+  "gradient": "#ffffff00",
+  "shadow": "#00000000",
+  "shadowBlur": 0,
+  "shadowX": 0,
+  "shadowY": 0,
+  "letterSpacing": 0,
+  "highlight": "#ffe94dff",
+  "maxWords": 3,
+  "y": 0.3,
+  "emoji": false
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-happy-bounce",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Happy face",
+  "ar": "وجه سعيد",
+  "de": "Fröhlich",
+  "es": "Cara feliz",
+  "fr": "Visage joyeux",
+  "id": "Wajah senang",
+  "ja": "にっこり",
+  "ko": "행복한 얼굴",
+  "pt": "Carinha feliz",
+  "ru": "Радость",
+  "tr": "Mutlu yüz",
+  "zh": "开心"
+ },
+ "payload": "a-happy-bounce.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

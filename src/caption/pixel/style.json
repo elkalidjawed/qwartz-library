@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.pixel",
+  "name": "Pixel game",
+  "animation": "typewriter",
+  "font": "Press Start 2P",
+  "size": 40,
+  "bold": false,
+  "italic": false,
+  "uppercase": false,
+  "color": "#7dff6bff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#000000d0",
+  "bgPadding": 0.5,
+  "bgRadius": 0.0,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#00000000",
+  "shadowBlur": 0,
+  "shadowX": 0,
+  "shadowY": 0,
+  "letterSpacing": 0,
+  "highlight": "#ffffffff",
+  "maxWords": 4,
+  "y": 0.34,
+  "emoji": false
+ }
+}

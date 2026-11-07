@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-ring-pulse",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Pulsing ring",
+  "ar": "حلقة نابضة",
+  "de": "Pulsierender Ring",
+  "es": "Anillo pulsante",
+  "fr": "Anneau pulsant",
+  "id": "Cincin berdenyut",
+  "ja": "脈打つリング",
+  "ko": "맥동 링",
+  "pt": "Anel pulsante",
+  "ru": "Пульсирующее кольцо",
+  "tr": "Atan halka",
+  "zh": "脉冲圆环"
+ },
+ "payload": "a-ring-pulse.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

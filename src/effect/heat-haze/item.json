@@ -1,0 +1,32 @@
+{
+ "id": "effect.heat-haze",
+ "type": "effect",
+ "category": "Distort",
+ "tags": [
+  "heat",
+  "haze",
+  "desert",
+  "summer",
+  "mirage"
+ ],
+ "title": {
+  "en": "Heat haze",
+  "ar": "سراب الحرارة",
+  "de": "Hitzeflimmern",
+  "es": "Calima",
+  "fr": "Brume de chaleur",
+  "id": "Fatamorgana",
+  "ja": "陽炎",
+  "ko": "아지랑이",
+  "pt": "Ondas de calor",
+  "ru": "Знойное марево",
+  "tr": "Sıcak dalgası",
+  "zh": "热浪"
+ },
+ "payload": "heat-haze.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

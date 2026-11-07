@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-shine-flash",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "sparkle",
+  "star",
+  "shine",
+  "glitter",
+  "magic",
+  "animated"
+ ],
+ "title": {
+  "en": "Shine",
+  "ar": "لمعان",
+  "de": "Glanz",
+  "es": "Destello",
+  "fr": "Éclat",
+  "id": "Kilau",
+  "ja": "きらめき",
+  "ko": "반짝임",
+  "pt": "Brilho",
+  "ru": "Блеск",
+  "tr": "Parıltı",
+  "zh": "闪光"
+ },
+ "payload": "a-shine-flash.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.marker",
+  "name": "Marker",
+  "animation": "pop",
+  "font": "Permanent Marker",
+  "size": 82,
+  "bold": false,
+  "italic": false,
+  "uppercase": false,
+  "color": "#ffffffff",
+  "stroke": "#000000ff",
+  "strokeWidth": 6,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#000000b0",
+  "shadowBlur": 2,
+  "shadowX": 4,
+  "shadowY": 5,
+  "letterSpacing": 0,
+  "highlight": "#ffe600ff",
+  "maxWords": 3,
+  "y": 0.3,
+  "emoji": false
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-heart-beat",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Heartbeat",
+  "ar": "نبض القلب",
+  "de": "Herzschlag",
+  "es": "Latido",
+  "fr": "Battement de cœur",
+  "id": "Detak jantung",
+  "ja": "ドキドキ",
+  "ko": "두근두근",
+  "pt": "Batimento",
+  "ru": "Сердцебиение",
+  "tr": "Kalp atışı",
+  "zh": "心跳"
+ },
+ "payload": "anim-heart-beat.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

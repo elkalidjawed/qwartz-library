@@ -1,0 +1,32 @@
+{
+ "id": "filter.faded-polaroid",
+ "type": "filter",
+ "category": "Vintage",
+ "tags": [
+  "instant",
+  "polaroid",
+  "faded",
+  "soft",
+  "vignette"
+ ],
+ "title": {
+  "en": "Faded instant photo",
+  "ar": "صورة فورية باهتة",
+  "de": "Verblasstes Sofortbild",
+  "es": "Foto instantánea desvaída",
+  "fr": "Photo instantanée passée",
+  "id": "Foto instan pudar",
+  "ja": "色あせたインスタント写真",
+  "ko": "바랜 즉석 사진",
+  "pt": "Foto instantânea desbotada",
+  "ru": "Выцветший снимок",
+  "tr": "Solmuş anlık fotoğraf",
+  "zh": "褪色拍立得"
+ },
+ "payload": "faded-polaroid.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

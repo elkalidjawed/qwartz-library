@@ -1,0 +1,31 @@
+{
+ "id": "transition.bounce-slide",
+ "type": "transition",
+ "category": "Slide",
+ "tags": [
+  "bounce",
+  "slide",
+  "spring",
+  "elastic"
+ ],
+ "title": {
+  "en": "Bounce slide",
+  "ar": "انزلاق مرتد",
+  "de": "Federndes Schieben",
+  "es": "Deslizar con rebote",
+  "fr": "Glissement rebond",
+  "id": "Geser memantul",
+  "ja": "バウンススライド",
+  "ko": "바운스 슬라이드",
+  "pt": "Deslizar com quique",
+  "ru": "Сдвиг с отскоком",
+  "tr": "Zıplayan kaydırma",
+  "zh": "弹跳滑入"
+ },
+ "payload": "bounce-slide.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

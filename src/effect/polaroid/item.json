@@ -1,0 +1,32 @@
+{
+ "id": "effect.polaroid",
+ "type": "effect",
+ "category": "Frames",
+ "tags": [
+  "polaroid",
+  "instant",
+  "photo",
+  "frame",
+  "paper"
+ ],
+ "title": {
+  "en": "Instant photo",
+  "ar": "صورة فورية",
+  "de": "Sofortbild",
+  "es": "Foto instantánea",
+  "fr": "Photo instantanée",
+  "id": "Foto instan",
+  "ja": "インスタント写真",
+  "ko": "즉석 사진",
+  "pt": "Foto instantânea",
+  "ru": "Моментальное фото",
+  "tr": "Anlık fotoğraf",
+  "zh": "拍立得"
+ },
+ "payload": "polaroid.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

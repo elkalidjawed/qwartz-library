@@ -1,0 +1,424 @@
+{
+ "id": "lib-did-you-know",
+ "name": "Did you know?",
+ "category": "Titles",
+ "tags": [
+  "fact",
+  "did you know",
+  "trivia",
+  "education",
+  "tip"
+ ],
+ "duration": 3528000000,
+ "layers": [
+  [
+   {
+    "id": 0,
+    "kind": 8,
+    "media": 0,
+    "name": "Shape",
+    "start": 0,
+    "duration": 3528000000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.0,
+     "y": 0.0,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 3,
+     "x": -0.54,
+     "y": -0.12,
+     "width": 0.15,
+     "height": 0.15,
+     "rotation": 0.0,
+     "feather": 0.004,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "color": [
+     1.0,
+     0.8392,
+     0.0392,
+     1.0
+    ]
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 70560000,
+    "duration": 3457440000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": -0.27,
+     "y": -0.06,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "pop",
+     "duration": 317520000
+    },
+    "animOut": {
+     "preset": "zoom-out",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "swing",
+     "duration": 846720000
+    },
+    "effects": [],
+    "text": {
+     "text": "!",
+     "font": "Archivo Black",
+     "size": 100,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      0.0667,
+      0.0667,
+      0.0784,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 0,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 1,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 211680000,
+    "duration": 3316320000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.05,
+     "y": -0.09,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "slide-right",
+     "duration": 352800000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "DID YOU KNOW?",
+     "font": "Archivo Black",
+     "size": 80,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 4,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 0,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ],
+  [
+   {
+    "id": 0,
+    "kind": 3,
+    "media": 0,
+    "name": "Text",
+    "start": 564480000,
+    "duration": 2963520000,
+    "sourceIn": 0,
+    "speed": 1.0,
+    "reversed": false,
+    "freeze": false,
+    "keepPitch": true,
+    "speedCurve": "",
+    "muted": false,
+    "hidden": false,
+    "transform": {
+     "x": 0.05,
+     "y": -0.005,
+     "scale": 1.0,
+     "rotation": 0.0,
+     "opacity": 1.0,
+     "flipH": false,
+     "flipV": false
+    },
+    "crop": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "blend": 0,
+    "mask": {
+     "shape": 0,
+     "x": 0.0,
+     "y": 0.0,
+     "width": 0.5,
+     "height": 0.5,
+     "rotation": 0.0,
+     "feather": 0.0,
+     "roundness": 0.0,
+     "invert": false
+    },
+    "animIn": {
+     "preset": "text-typewriter",
+     "duration": 776160000
+    },
+    "animOut": {
+     "preset": "fade",
+     "duration": 211680000
+    },
+    "animCombo": {
+     "preset": "",
+     "duration": 352800000
+    },
+    "effects": [],
+    "text": {
+     "text": "Honey never goes bad.",
+     "font": "Montserrat",
+     "size": 46,
+     "bold": false,
+     "italic": false,
+     "underline": false,
+     "color": [
+      1.0,
+      0.9137,
+      0.6588,
+      1.0
+     ],
+     "strokeColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+     ],
+     "strokeWidth": 3,
+     "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      0.6
+     ],
+     "shadowBlur": 0,
+     "shadowX": 0,
+     "shadowY": 0,
+     "background": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "letterSpacing": 0,
+     "lineSpacing": 1.05,
+     "align": 0,
+     "template": "",
+     "uppercase": false,
+     "glowColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "glowSize": 12,
+     "gradientColor": [
+      1,
+      1,
+      1,
+      0
+     ],
+     "bgPadding": 0.3,
+     "bgRadius": 0.6,
+     "curve": 0
+    }
+   }
+  ]
+ ]
+}

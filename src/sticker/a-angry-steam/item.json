@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-angry-steam",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Angry face",
+  "ar": "وجه غاضب",
+  "de": "Wütend",
+  "es": "Cara enojada",
+  "fr": "Visage en colère",
+  "id": "Wajah marah",
+  "ja": "怒り顔",
+  "ko": "화난 얼굴",
+  "pt": "Cara brava",
+  "ru": "Злость",
+  "tr": "Kızgın yüz",
+  "zh": "生气"
+ },
+ "payload": "a-angry-steam.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

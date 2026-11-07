@@ -1,0 +1,36 @@
+{
+ "id": "font.shadows-into-light",
+ "type": "font",
+ "category": "Script",
+ "tags": [
+  "handwritten",
+  "marker",
+  "casual",
+  "handwriting",
+  "font"
+ ],
+ "title": {
+  "en": "Shadows Into Light",
+  "ar": "Shadows Into Light",
+  "de": "Shadows Into Light",
+  "es": "Shadows Into Light",
+  "fr": "Shadows Into Light",
+  "id": "Shadows Into Light",
+  "ja": "Shadows Into Light",
+  "ko": "Shadows Into Light",
+  "pt": "Shadows Into Light",
+  "ru": "Shadows Into Light",
+  "tr": "Shadows Into Light",
+  "zh": "Shadows Into Light"
+ },
+ "payload": "shadows-into-light.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "Kimberly Geswein",
+  "source": "https://github.com/google/fonts/tree/main/ofl/shadowsintolight"
+ },
+ "extra": {
+  "family": "Shadows Into Light"
+ }
+}

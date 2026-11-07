@@ -1,0 +1,36 @@
+{
+ "id": "lut.bright-airy",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "bright",
+  "airy",
+  "high",
+  "key",
+  "light",
+  "clean",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Bright & airy",
+  "ar": "مشرق وخفيف",
+  "de": "Hell & luftig",
+  "es": "Luminoso",
+  "fr": "Lumineux",
+  "id": "Cerah & lapang",
+  "ja": "明るくふんわり",
+  "ko": "밝고 화사하게",
+  "pt": "Claro e leve",
+  "ru": "Светлый и лёгкий",
+  "tr": "Aydınlık",
+  "zh": "明亮通透"
+ },
+ "payload": "bright-airy.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

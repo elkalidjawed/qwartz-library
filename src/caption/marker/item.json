@@ -1,0 +1,32 @@
+{
+ "id": "caption.marker",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "marker",
+  "handwritten",
+  "street",
+  "bold",
+  "doodle"
+ ],
+ "title": {
+  "en": "Marker",
+  "ar": "قلم عريض",
+  "de": "Marker",
+  "es": "Rotulador",
+  "fr": "Marqueur",
+  "id": "Spidol",
+  "ja": "マーカー",
+  "ko": "마커",
+  "pt": "Marcador",
+  "ru": "Маркер",
+  "tr": "Keçeli kalem",
+  "zh": "马克笔"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

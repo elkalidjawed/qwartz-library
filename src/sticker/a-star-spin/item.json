@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-star-spin",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Star shape",
+  "ar": "شكل نجمة",
+  "de": "Sternform",
+  "es": "Forma de estrella",
+  "fr": "Forme étoile",
+  "id": "Bentuk bintang",
+  "ja": "星形",
+  "ko": "별 모양",
+  "pt": "Forma de estrela",
+  "ru": "Фигура звезды",
+  "tr": "Yıldız şekli",
+  "zh": "星形"
+ },
+ "payload": "a-star-spin.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

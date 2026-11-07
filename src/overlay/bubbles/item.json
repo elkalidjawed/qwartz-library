@@ -1,0 +1,31 @@
+{
+ "id": "overlay.bubbles",
+ "type": "overlay",
+ "category": "Particles",
+ "tags": [
+  "bubbles",
+  "soap",
+  "floating",
+  "water"
+ ],
+ "title": {
+  "en": "Bubbles",
+  "ar": "فقاعات",
+  "de": "Seifenblasen",
+  "es": "Burbujas",
+  "fr": "Bulles",
+  "id": "Gelembung",
+  "ja": "シャボン玉",
+  "ko": "비눗방울",
+  "pt": "Bolhas",
+  "ru": "Пузыри",
+  "tr": "Baloncuklar",
+  "zh": "泡泡"
+ },
+ "payload": "bubbles.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

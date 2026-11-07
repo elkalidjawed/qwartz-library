@@ -1,0 +1,32 @@
+{
+ "id": "effect.cinema-bars",
+ "type": "effect",
+ "category": "Frames",
+ "tags": [
+  "cinema",
+  "movie",
+  "letterbox",
+  "bars",
+  "film"
+ ],
+ "title": {
+  "en": "Cinema bars",
+  "ar": "أشرطة سينمائية",
+  "de": "Kinobalken",
+  "es": "Barras de cine",
+  "fr": "Bandes cinéma",
+  "id": "Bilah sinema",
+  "ja": "シネマバー",
+  "ko": "시네마 바",
+  "pt": "Barras de cinema",
+  "ru": "Кинополосы",
+  "tr": "Sinema bantları",
+  "zh": "电影黑边"
+ },
+ "payload": "cinema-bars.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

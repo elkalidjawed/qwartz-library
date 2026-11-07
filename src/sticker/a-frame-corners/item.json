@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-corners",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "Corner frame",
+  "ar": "إطار زوايا",
+  "de": "Eckrahmen",
+  "es": "Marco de esquinas",
+  "fr": "Cadre à coins",
+  "id": "Bingkai sudut",
+  "ja": "コーナー枠",
+  "ko": "코너 프레임",
+  "pt": "Moldura de cantos",
+  "ru": "Уголки",
+  "tr": "Köşe çerçeve",
+  "zh": "边角框"
+ },
+ "payload": "a-frame-corners.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

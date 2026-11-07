@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-heart-flip",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "heart",
+  "love",
+  "like",
+  "valentine",
+  "animated"
+ ],
+ "title": {
+  "en": "Flipping heart",
+  "ar": "قلب يدور",
+  "de": "Drehendes Herz",
+  "es": "Corazón girando",
+  "fr": "Cœur qui tourne",
+  "id": "Hati berputar",
+  "ja": "回転ハート",
+  "ko": "뒤집히는 하트",
+  "pt": "Coração girando",
+  "ru": "Вращающееся сердце",
+  "tr": "Dönen kalp",
+  "zh": "翻转爱心"
+ },
+ "payload": "a-heart-flip.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

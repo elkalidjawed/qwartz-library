@@ -1,0 +1,32 @@
+{
+ "id": "filter.golden-hour",
+ "type": "filter",
+ "category": "Cinematic",
+ "tags": [
+  "golden",
+  "hour",
+  "warm",
+  "sunset",
+  "glow"
+ ],
+ "title": {
+  "en": "Golden hour",
+  "ar": "الساعة الذهبية",
+  "de": "Goldene Stunde",
+  "es": "Hora dorada",
+  "fr": "Heure dorée",
+  "id": "Jam emas",
+  "ja": "ゴールデンアワー",
+  "ko": "골든 아워",
+  "pt": "Hora dourada",
+  "ru": "Золотой час",
+  "tr": "Altın saat",
+  "zh": "黄金时刻"
+ },
+ "payload": "golden-hour.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

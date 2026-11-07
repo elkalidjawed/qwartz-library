@@ -1,0 +1,32 @@
+{
+ "id": "textanim.colour-split-in",
+ "type": "textanim",
+ "category": "TextIn",
+ "tags": [
+  "rgb",
+  "colour split",
+  "chromatic",
+  "slide",
+  "in"
+ ],
+ "title": {
+  "en": "Colour split in",
+  "ar": "دخول بانقسام الألوان",
+  "de": "Farbversatz-Einblendung",
+  "es": "Entrada con separación de color",
+  "fr": "Entrée en couleurs décalées",
+  "id": "Masuk pecah warna",
+  "ja": "色ずれイン",
+  "ko": "색 분리 인",
+  "pt": "Entrada com cores separadas",
+  "ru": "Появление с цветовым сдвигом",
+  "tr": "Renk ayrışmalı giriş",
+  "zh": "色彩分离进入"
+ },
+ "payload": "colour-split-in.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "font.nunito",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "rounded",
+  "friendly",
+  "soft",
+  "sans",
+  "font"
+ ],
+ "title": {
+  "en": "Nunito",
+  "ar": "Nunito",
+  "de": "Nunito",
+  "es": "Nunito",
+  "fr": "Nunito",
+  "id": "Nunito",
+  "ja": "Nunito",
+  "ko": "Nunito",
+  "pt": "Nunito",
+  "ru": "Nunito",
+  "tr": "Nunito",
+  "zh": "Nunito"
+ },
+ "payload": "nunito.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The Nunito Project Authors",
+  "source": "https://github.com/google/fonts/tree/main/ofl/nunito"
+ },
+ "extra": {
+  "family": "Nunito"
+ }
+}

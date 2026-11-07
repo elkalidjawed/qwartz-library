@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-rec",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "REC frame",
+  "ar": "إطار REC",
+  "de": "REC-Rahmen",
+  "es": "Marco REC",
+  "fr": "Cadre REC",
+  "id": "Bingkai REC",
+  "ja": "REC枠",
+  "ko": "REC 프레임",
+  "pt": "Moldura REC",
+  "ru": "Рамка REC",
+  "tr": "REC çerçevesi",
+  "zh": "REC 录制框"
+ },
+ "payload": "a-frame-rec.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

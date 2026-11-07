@@ -1,0 +1,32 @@
+{
+ "id": "effect.hologram",
+ "type": "effect",
+ "category": "Glitch",
+ "tags": [
+  "hologram",
+  "sci-fi",
+  "cyan",
+  "future",
+  "scanlines"
+ ],
+ "title": {
+  "en": "Hologram",
+  "ar": "هولوغرام",
+  "de": "Hologramm",
+  "es": "Holograma",
+  "fr": "Hologramme",
+  "id": "Hologram",
+  "ja": "ホログラム",
+  "ko": "홀로그램",
+  "pt": "Holograma",
+  "ru": "Голограмма",
+  "tr": "Hologram",
+  "zh": "全息投影"
+ },
+ "payload": "hologram.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

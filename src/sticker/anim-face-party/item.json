@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-face-party",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Party time",
+  "ar": "وقت الحفلة",
+  "de": "Partyzeit",
+  "es": "Hora de fiesta",
+  "fr": "C'est la fête",
+  "id": "Waktunya pesta",
+  "ja": "パーティー",
+  "ko": "파티 타임",
+  "pt": "Hora da festa",
+  "ru": "Вечеринка",
+  "tr": "Parti zamanı",
+  "zh": "派对时间"
+ },
+ "payload": "anim-face-party.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

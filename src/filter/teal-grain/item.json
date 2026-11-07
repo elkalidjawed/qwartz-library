@@ -1,0 +1,32 @@
+{
+ "id": "filter.teal-grain",
+ "type": "filter",
+ "category": "Cinematic",
+ "tags": [
+  "teal",
+  "film",
+  "grain",
+  "cinema",
+  "vignette"
+ ],
+ "title": {
+  "en": "Teal film",
+  "ar": "فيلم أزرق مخضر",
+  "de": "Petrol-Film",
+  "es": "Película verde azulado",
+  "fr": "Film bleu canard",
+  "id": "Film teal",
+  "ja": "ティールフィルム",
+  "ko": "틸 필름",
+  "pt": "Filme azul-petróleo",
+  "ru": "Бирюзовая плёнка",
+  "tr": "Petrol filmi",
+  "zh": "青色胶片"
+ },
+ "payload": "teal-grain.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

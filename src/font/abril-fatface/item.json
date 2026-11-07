@@ -1,0 +1,37 @@
+{
+ "id": "font.abril-fatface",
+ "type": "font",
+ "category": "Display",
+ "tags": [
+  "bold",
+  "elegant",
+  "headline",
+  "fashion",
+  "magazine",
+  "font"
+ ],
+ "title": {
+  "en": "Abril Fatface",
+  "ar": "Abril Fatface",
+  "de": "Abril Fatface",
+  "es": "Abril Fatface",
+  "fr": "Abril Fatface",
+  "id": "Abril Fatface",
+  "ja": "Abril Fatface",
+  "ko": "Abril Fatface",
+  "pt": "Abril Fatface",
+  "ru": "Abril Fatface",
+  "tr": "Abril Fatface",
+  "zh": "Abril Fatface"
+ },
+ "payload": "abril-fatface.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "TypeTogether",
+  "source": "https://github.com/google/fonts/tree/main/ofl/abrilfatface"
+ },
+ "extra": {
+  "family": "Abril Fatface"
+ }
+}

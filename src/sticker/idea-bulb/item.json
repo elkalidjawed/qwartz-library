@@ -1,0 +1,35 @@
+{
+ "id": "sticker.idea-bulb",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "idea",
+  "light",
+  "bulb",
+  "tip",
+  "think",
+  "smart",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Idea bulb",
+  "ar": "مصباح فكرة",
+  "de": "Ideen-Glühbirne",
+  "es": "Bombilla de idea",
+  "fr": "Ampoule idée",
+  "id": "Bohlam ide",
+  "ja": "アイデア電球",
+  "ko": "아이디어 전구",
+  "pt": "Lâmpada de ideia",
+  "ru": "Лампочка-идея",
+  "tr": "Fikir ampulü",
+  "zh": "灵感灯泡"
+ },
+ "payload": "idea-bulb.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

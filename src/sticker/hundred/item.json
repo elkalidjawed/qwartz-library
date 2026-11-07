@@ -1,0 +1,34 @@
+{
+ "id": "sticker.hundred",
+ "type": "sticker",
+ "category": "Labels",
+ "tags": [
+  "100",
+  "hundred",
+  "perfect",
+  "score",
+  "emoji",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "100 points",
+  "ar": "100 نقطة",
+  "de": "100 Punkte",
+  "es": "100 puntos",
+  "fr": "100 points",
+  "id": "100 poin",
+  "ja": "100点",
+  "ko": "100점",
+  "pt": "100 pontos",
+  "ru": "100 баллов",
+  "tr": "100 puan",
+  "zh": "100分"
+ },
+ "payload": "hundred.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

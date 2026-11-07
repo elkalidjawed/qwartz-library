@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-subscribe-press",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Subscribe",
+  "ar": "اشترك",
+  "de": "Abonnieren",
+  "es": "Suscribirse",
+  "fr": "S'abonner",
+  "id": "Langganan",
+  "ja": "登録",
+  "ko": "구독",
+  "pt": "Inscrever-se",
+  "ru": "Подписка",
+  "tr": "Abone ol",
+  "zh": "订阅"
+ },
+ "payload": "anim-subscribe-press.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

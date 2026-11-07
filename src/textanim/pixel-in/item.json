@@ -1,0 +1,32 @@
+{
+ "id": "textanim.pixel-in",
+ "type": "textanim",
+ "category": "TextIn",
+ "tags": [
+  "pixel",
+  "8-bit",
+  "retro",
+  "game",
+  "in"
+ ],
+ "title": {
+  "en": "Pixel in",
+  "ar": "ظهور بالبكسل",
+  "de": "Pixel-Einblendung",
+  "es": "Entrada pixelada",
+  "fr": "Apparition pixelisée",
+  "id": "Muncul piksel",
+  "ja": "ピクセルイン",
+  "ko": "픽셀 인",
+  "pt": "Entrada pixelada",
+  "ru": "Пиксельное появление",
+  "tr": "Piksel giriş",
+  "zh": "像素进入"
+ },
+ "payload": "pixel-in.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

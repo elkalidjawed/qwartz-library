@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-crown",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Crown",
+  "ar": "تاج",
+  "de": "Krone",
+  "es": "Corona",
+  "fr": "Couronne",
+  "id": "Mahkota",
+  "ja": "王冠",
+  "ko": "왕관",
+  "pt": "Coroa",
+  "ru": "Корона",
+  "tr": "Taç",
+  "zh": "皇冠"
+ },
+ "payload": "anim-crown.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

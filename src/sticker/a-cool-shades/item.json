@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-cool-shades",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Cool face",
+  "ar": "وجه رائع",
+  "de": "Cooles Gesicht",
+  "es": "Cara genial",
+  "fr": "Visage cool",
+  "id": "Wajah keren",
+  "ja": "サングラス顔",
+  "ko": "선글라스 얼굴",
+  "pt": "Cara descolada",
+  "ru": "Крутой",
+  "tr": "Havalı yüz",
+  "zh": "酷脸"
+ },
+ "payload": "a-cool-shades.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

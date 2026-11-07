@@ -1,0 +1,32 @@
+{
+ "id": "filter.pastel-bloom",
+ "type": "filter",
+ "category": "Creative",
+ "tags": [
+  "pastel",
+  "bloom",
+  "dreamy",
+  "soft",
+  "glow"
+ ],
+ "title": {
+  "en": "Pastel bloom",
+  "ar": "توهج باستيل",
+  "de": "Pastell-Schimmer",
+  "es": "Brillo pastel",
+  "fr": "Halo pastel",
+  "id": "Pendar pastel",
+  "ja": "パステルブルーム",
+  "ko": "파스텔 블룸",
+  "pt": "Brilho pastel",
+  "ru": "Пастельное сияние",
+  "tr": "Pastel parıltı",
+  "zh": "粉彩柔光"
+ },
+ "payload": "pastel-bloom.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

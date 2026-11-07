@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-star-spin",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Spinning star",
+  "ar": "نجمة تدور",
+  "de": "Drehender Stern",
+  "es": "Estrella girando",
+  "fr": "Étoile tournante",
+  "id": "Bintang berputar",
+  "ja": "回る星",
+  "ko": "도는 별",
+  "pt": "Estrela girando",
+  "ru": "Вращающаяся звезда",
+  "tr": "Dönen yıldız",
+  "zh": "旋转星星"
+ },
+ "payload": "anim-star-spin.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

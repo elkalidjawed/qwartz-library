@@ -1,0 +1,32 @@
+{
+ "id": "overlay.twinkling-stars",
+ "type": "overlay",
+ "category": "Particles",
+ "tags": [
+  "stars",
+  "twinkle",
+  "sparkle",
+  "night",
+  "shine"
+ ],
+ "title": {
+  "en": "Twinkling stars",
+  "ar": "نجوم متلألئة",
+  "de": "Funkelnde Sterne",
+  "es": "Estrellas titilantes",
+  "fr": "Étoiles scintillantes",
+  "id": "Bintang berkelip",
+  "ja": "きらめく星",
+  "ko": "반짝이는 별",
+  "pt": "Estrelas cintilantes",
+  "ru": "Мерцающие звёзды",
+  "tr": "Parıldayan yıldızlar",
+  "zh": "闪烁星星"
+ },
+ "payload": "twinkling-stars.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

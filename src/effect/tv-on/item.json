@@ -1,0 +1,32 @@
+{
+ "id": "effect.tv-on",
+ "type": "effect",
+ "category": "Retro",
+ "tags": [
+  "tv",
+  "turn on",
+  "old",
+  "crt",
+  "intro"
+ ],
+ "title": {
+  "en": "TV turn on",
+  "ar": "تشغيل التلفاز",
+  "de": "TV einschalten",
+  "es": "Encender TV",
+  "fr": "Allumage TV",
+  "id": "TV menyala",
+  "ja": "テレビオン",
+  "ko": "TV 켜기",
+  "pt": "Ligar a TV",
+  "ru": "Включение ТВ",
+  "tr": "TV açılış",
+  "zh": "电视开机"
+ },
+ "payload": "tv-on.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

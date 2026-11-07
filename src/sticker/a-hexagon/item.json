@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-hexagon",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "shape",
+  "geometry",
+  "circle",
+  "square",
+  "animated"
+ ],
+ "title": {
+  "en": "Hexagon",
+  "ar": "سداسي",
+  "de": "Sechseck",
+  "es": "Hexágono",
+  "fr": "Hexagone",
+  "id": "Segi enam",
+  "ja": "六角形",
+  "ko": "육각형",
+  "pt": "Hexágono",
+  "ru": "Шестиугольник",
+  "tr": "Altıgen",
+  "zh": "六边形"
+ },
+ "payload": "a-hexagon.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

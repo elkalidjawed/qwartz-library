@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-rocket",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Rocket",
+  "ar": "صاروخ",
+  "de": "Rakete",
+  "es": "Cohete",
+  "fr": "Fusée",
+  "id": "Roket",
+  "ja": "ロケット",
+  "ko": "로켓",
+  "pt": "Foguete",
+  "ru": "Ракета",
+  "tr": "Roket",
+  "zh": "火箭"
+ },
+ "payload": "anim-rocket.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

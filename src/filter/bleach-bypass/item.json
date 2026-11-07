@@ -1,0 +1,33 @@
+{
+ "id": "filter.bleach-bypass",
+ "type": "filter",
+ "category": "Cinematic",
+ "tags": [
+  "bleach",
+  "bypass",
+  "desaturated",
+  "contrast",
+  "grain",
+  "film"
+ ],
+ "title": {
+  "en": "Bleach bypass",
+  "ar": "تجاوز التبييض",
+  "de": "Bleach Bypass",
+  "es": "Blanqueo omitido",
+  "fr": "Sans blanchiment",
+  "id": "Bleach bypass",
+  "ja": "銀残し",
+  "ko": "블리치 바이패스",
+  "pt": "Bleach bypass",
+  "ru": "Отбеливание",
+  "tr": "Ağartma atlama",
+  "zh": "漂白旁路"
+ },
+ "payload": "bleach-bypass.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

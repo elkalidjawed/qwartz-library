@@ -1,0 +1,32 @@
+{
+ "id": "overlay.drifting-fog",
+ "type": "overlay",
+ "category": "Film",
+ "tags": [
+  "fog",
+  "mist",
+  "haze",
+  "smoke",
+  "atmosphere"
+ ],
+ "title": {
+  "en": "Drifting fog",
+  "ar": "ضباب منجرف",
+  "de": "Ziehender Nebel",
+  "es": "Niebla a la deriva",
+  "fr": "Brume flottante",
+  "id": "Kabut melayang",
+  "ja": "流れる霧",
+  "ko": "흐르는 안개",
+  "pt": "Névoa passando",
+  "ru": "Плывущий туман",
+  "tr": "Süzülen sis",
+  "zh": "飘动的雾"
+ },
+ "payload": "drifting-fog.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

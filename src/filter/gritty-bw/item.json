@@ -1,0 +1,33 @@
+{
+ "id": "filter.gritty-bw",
+ "type": "filter",
+ "category": "Cinematic",
+ "tags": [
+  "black",
+  "white",
+  "bw",
+  "grain",
+  "contrast",
+  "mono"
+ ],
+ "title": {
+  "en": "Gritty black & white",
+  "ar": "أبيض وأسود خشن",
+  "de": "Körniges Schwarzweiß",
+  "es": "Blanco y negro granulado",
+  "fr": "Noir et blanc granuleux",
+  "id": "Hitam putih kasar",
+  "ja": "ざらついたモノクロ",
+  "ko": "거친 흑백",
+  "pt": "Preto e branco granulado",
+  "ru": "Зернистый чёрно-белый",
+  "tr": "Grenli siyah beyaz",
+  "zh": "颗粒黑白"
+ },
+ "payload": "gritty-bw.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

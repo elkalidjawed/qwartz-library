@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.tall-bold",
+  "name": "Tall bold",
+  "animation": "emphasis",
+  "font": "Bebas Neue",
+  "size": 108,
+  "bold": false,
+  "italic": false,
+  "uppercase": true,
+  "color": "#ffffffff",
+  "stroke": "#000000ff",
+  "strokeWidth": 5,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#000000aa",
+  "shadowBlur": 6,
+  "shadowX": 0,
+  "shadowY": 5,
+  "letterSpacing": 3,
+  "highlight": "#ff8a00ff",
+  "maxWords": 3,
+  "y": 0.24,
+  "emoji": false
+ }
+}

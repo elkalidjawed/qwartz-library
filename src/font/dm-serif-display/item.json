@@ -1,0 +1,36 @@
+{
+ "id": "font.dm-serif-display",
+ "type": "font",
+ "category": "Serif",
+ "tags": [
+  "serif",
+  "elegant",
+  "headline",
+  "classic",
+  "font"
+ ],
+ "title": {
+  "en": "DM Serif Display",
+  "ar": "DM Serif Display",
+  "de": "DM Serif Display",
+  "es": "DM Serif Display",
+  "fr": "DM Serif Display",
+  "id": "DM Serif Display",
+  "ja": "DM Serif Display",
+  "ko": "DM Serif Display",
+  "pt": "DM Serif Display",
+  "ru": "DM Serif Display",
+  "tr": "DM Serif Display",
+  "zh": "DM Serif Display"
+ },
+ "payload": "dm-serif-display.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "Adobe; Google LLC",
+  "source": "https://github.com/google/fonts/tree/main/ofl/dmserifdisplay"
+ },
+ "extra": {
+  "family": "DM Serif Display"
+ }
+}

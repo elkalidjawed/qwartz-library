@@ -1,0 +1,34 @@
+{
+ "id": "sticker.flame",
+ "type": "sticker",
+ "category": "Objects",
+ "tags": [
+  "fire",
+  "flame",
+  "hot",
+  "lit",
+  "burn",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Flickering flame",
+  "ar": "لهب متراقص",
+  "de": "Flackernde Flamme",
+  "es": "Llama",
+  "fr": "Flamme",
+  "id": "Api menyala",
+  "ja": "ゆらめく炎",
+  "ko": "일렁이는 불꽃",
+  "pt": "Chama",
+  "ru": "Пламя",
+  "tr": "Titreyen alev",
+  "zh": "跳动火焰"
+ },
+ "payload": "flame.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

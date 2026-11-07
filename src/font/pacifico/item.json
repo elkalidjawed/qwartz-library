@@ -1,0 +1,32 @@
+{
+ "id": "font.pacifico",
+ "type": "font",
+ "category": "Script",
+ "tags": [
+  "pacifico"
+ ],
+ "title": {
+  "en": "Pacifico",
+  "ar": "Pacifico",
+  "de": "Pacifico",
+  "es": "Pacifico",
+  "fr": "Pacifico",
+  "id": "Pacifico",
+  "ja": "Pacifico",
+  "ko": "Pacifico",
+  "pt": "Pacifico",
+  "ru": "Pacifico",
+  "tr": "Pacifico",
+  "zh": "Pacifico"
+ },
+ "payload": "pacifico.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "2018 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico",
+  "source": "https://github.com/google/fonts/tree/2eb0b48d5f760f62e286216f0859a8c540dbc1bd/ofl/pacifico"
+ },
+ "extra": {
+  "family": "Pacifico"
+ }
+}

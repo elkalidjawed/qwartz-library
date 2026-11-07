@@ -1,0 +1,33 @@
+{
+ "id": "overlay.vhs-tracking",
+ "type": "overlay",
+ "category": "Glitch",
+ "tags": [
+  "vhs",
+  "tracking",
+  "tape",
+  "retro",
+  "lines",
+  "80s"
+ ],
+ "title": {
+  "en": "VHS tracking lines",
+  "ar": "خطوط تتبع VHS",
+  "de": "VHS-Spurlinien",
+  "es": "Líneas de tracking VHS",
+  "fr": "Lignes de tracking VHS",
+  "id": "Garis tracking VHS",
+  "ja": "VHSトラッキングノイズ",
+  "ko": "VHS 트래킹 라인",
+  "pt": "Linhas de tracking VHS",
+  "ru": "Полосы VHS",
+  "tr": "VHS izleme çizgileri",
+  "zh": "VHS 跟踪线"
+ },
+ "payload": "vhs-tracking.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "font.opensans",
+ "type": "font",
+ "category": "Sans",
+ "tags": [
+  "open sans"
+ ],
+ "title": {
+  "en": "Open Sans",
+  "ar": "Open Sans",
+  "de": "Open Sans",
+  "es": "Open Sans",
+  "fr": "Open Sans",
+  "id": "Open Sans",
+  "ja": "Open Sans",
+  "ko": "Open Sans",
+  "pt": "Open Sans",
+  "ru": "Open Sans",
+  "tr": "Open Sans",
+  "zh": "Open Sans"
+ },
+ "payload": "opensans.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans",
+  "source": "https://github.com/google/fonts/tree/2eb0b48d5f760f62e286216f0859a8c540dbc1bd/ofl/opensans"
+ },
+ "extra": {
+  "family": "Open Sans"
+ }
+}

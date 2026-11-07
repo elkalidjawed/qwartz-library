@@ -1,0 +1,35 @@
+{
+ "id": "sticker.check-mark",
+ "type": "sticker",
+ "category": "Doodles",
+ "tags": [
+  "check",
+  "tick",
+  "done",
+  "yes",
+  "ok",
+  "correct",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Check mark",
+  "ar": "علامة صح",
+  "de": "Häkchen",
+  "es": "Marca de verificación",
+  "fr": "Coche validée",
+  "id": "Tanda centang",
+  "ja": "チェックマーク",
+  "ko": "체크 표시",
+  "pt": "Sinal de certo",
+  "ru": "Галочка",
+  "tr": "Onay işareti",
+  "zh": "对勾"
+ },
+ "payload": "check-mark.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

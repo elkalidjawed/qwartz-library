@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-thumbs-up",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Thumbs up",
+  "ar": "إبهام للأعلى",
+  "de": "Daumen hoch",
+  "es": "Pulgar arriba",
+  "fr": "Pouce levé",
+  "id": "Jempol",
+  "ja": "グッド",
+  "ko": "엄지 척",
+  "pt": "Joinha",
+  "ru": "Класс",
+  "tr": "Başparmak",
+  "zh": "竖大拇指"
+ },
+ "payload": "anim-thumbs-up.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "id": "lut.golden-hour",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "golden",
+  "hour",
+  "warm",
+  "sunset",
+  "glow",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Golden hour",
+  "ar": "الساعة الذهبية",
+  "de": "Goldene Stunde",
+  "es": "Hora dorada",
+  "fr": "Heure dorée",
+  "id": "Golden hour",
+  "ja": "ゴールデンアワー",
+  "ko": "골든 아워",
+  "pt": "Hora dourada",
+  "ru": "Золотой час",
+  "tr": "Altın saat",
+  "zh": "黄金时刻"
+ },
+ "payload": "golden-hour.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

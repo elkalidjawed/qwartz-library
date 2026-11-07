@@ -1,0 +1,32 @@
+{
+ "id": "effect.signal-loss",
+ "type": "effect",
+ "category": "Glitch",
+ "tags": [
+  "static",
+  "tv",
+  "signal",
+  "noise",
+  "lost"
+ ],
+ "title": {
+  "en": "Signal loss",
+  "ar": "فقدان الإشارة",
+  "de": "Signalverlust",
+  "es": "Pérdida de señal",
+  "fr": "Perte de signal",
+  "id": "Sinyal hilang",
+  "ja": "信号途切れ",
+  "ko": "신호 끊김",
+  "pt": "Perda de sinal",
+  "ru": "Потеря сигнала",
+  "tr": "Sinyal kaybı",
+  "zh": "信号丢失"
+ },
+ "payload": "signal-loss.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

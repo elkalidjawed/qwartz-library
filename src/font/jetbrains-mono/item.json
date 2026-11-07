@@ -1,0 +1,36 @@
+{
+ "id": "font.jetbrains-mono",
+ "type": "font",
+ "category": "Mono",
+ "tags": [
+  "monospace",
+  "code",
+  "typewriter",
+  "tech",
+  "font"
+ ],
+ "title": {
+  "en": "JetBrains Mono",
+  "ar": "JetBrains Mono",
+  "de": "JetBrains Mono",
+  "es": "JetBrains Mono",
+  "fr": "JetBrains Mono",
+  "id": "JetBrains Mono",
+  "ja": "JetBrains Mono",
+  "ko": "JetBrains Mono",
+  "pt": "JetBrains Mono",
+  "ru": "JetBrains Mono",
+  "tr": "JetBrains Mono",
+  "zh": "JetBrains Mono"
+ },
+ "payload": "jetbrains-mono.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "The JetBrains Mono Project Authors",
+  "source": "https://github.com/google/fonts/tree/main/ofl/jetbrainsmono"
+ },
+ "extra": {
+  "family": "JetBrains Mono"
+ }
+}

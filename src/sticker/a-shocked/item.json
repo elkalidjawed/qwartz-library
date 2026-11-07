@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-shocked",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Shocked",
+  "ar": "مصدوم",
+  "de": "Schockiert",
+  "es": "Sorprendido",
+  "fr": "Choqué",
+  "id": "Kaget",
+  "ja": "びっくり",
+  "ko": "충격",
+  "pt": "Chocado",
+  "ru": "Шок",
+  "tr": "Şaşkın",
+  "zh": "震惊"
+ },
+ "payload": "a-shocked.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

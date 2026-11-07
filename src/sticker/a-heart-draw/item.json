@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-heart-draw",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "heart",
+  "love",
+  "like",
+  "valentine",
+  "animated"
+ ],
+ "title": {
+  "en": "Drawn heart",
+  "ar": "قلب مرسوم",
+  "de": "Gezeichnetes Herz",
+  "es": "Corazón dibujado",
+  "fr": "Cœur dessiné",
+  "id": "Gambar hati",
+  "ja": "手描きハート",
+  "ko": "그리는 하트",
+  "pt": "Coração desenhado",
+  "ru": "Рисованное сердце",
+  "tr": "Çizilen kalp",
+  "zh": "手绘爱心"
+ },
+ "payload": "a-heart-draw.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

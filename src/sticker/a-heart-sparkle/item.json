@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-heart-sparkle",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "heart",
+  "love",
+  "like",
+  "valentine",
+  "animated"
+ ],
+ "title": {
+  "en": "Sparkling heart",
+  "ar": "قلب لامع",
+  "de": "Funkelndes Herz",
+  "es": "Corazón brillante",
+  "fr": "Cœur scintillant",
+  "id": "Hati berkilau",
+  "ja": "キラキラハート",
+  "ko": "반짝이는 하트",
+  "pt": "Coração brilhante",
+  "ru": "Сияющее сердце",
+  "tr": "Parıldayan kalp",
+  "zh": "闪亮爱心"
+ },
+ "payload": "a-heart-sparkle.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

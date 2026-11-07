@@ -1,0 +1,32 @@
+{
+ "id": "transition.camera-shutter",
+ "type": "transition",
+ "category": "Shape",
+ "tags": [
+  "shutter",
+  "camera",
+  "aperture",
+  "iris",
+  "photo"
+ ],
+ "title": {
+  "en": "Camera shutter",
+  "ar": "غالق الكاميرا",
+  "de": "Kameraverschluss",
+  "es": "Obturador",
+  "fr": "Obturateur",
+  "id": "Rana kamera",
+  "ja": "カメラシャッター",
+  "ko": "카메라 셔터",
+  "pt": "Obturador da câmera",
+  "ru": "Затвор камеры",
+  "tr": "Kamera deklanşörü",
+  "zh": "相机快门"
+ },
+ "payload": "camera-shutter.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.dark-glass",
+  "name": "Dark glass",
+  "animation": "karaoke",
+  "font": "Montserrat",
+  "size": 60,
+  "bold": true,
+  "italic": false,
+  "uppercase": false,
+  "color": "#ffffffff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#101218c8",
+  "bgPadding": 0.42,
+  "bgRadius": 0.5,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#00000000",
+  "shadowBlur": 0,
+  "shadowX": 0,
+  "shadowY": 0,
+  "letterSpacing": 0,
+  "highlight": "#5ee6ffff",
+  "maxWords": 4,
+  "y": 0.34,
+  "emoji": false
+ }
+}

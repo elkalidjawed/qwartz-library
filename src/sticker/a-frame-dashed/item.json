@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-dashed",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "Dashed frame",
+  "ar": "إطار متقطع",
+  "de": "Gestrichelter Rahmen",
+  "es": "Marco discontinuo",
+  "fr": "Cadre pointillé",
+  "id": "Bingkai putus-putus",
+  "ja": "点線枠",
+  "ko": "점선 프레임",
+  "pt": "Moldura tracejada",
+  "ru": "Пунктирная рамка",
+  "tr": "Kesik çizgili çerçeve",
+  "zh": "虚线框"
+ },
+ "payload": "a-frame-dashed.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

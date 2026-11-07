@@ -1,0 +1,32 @@
+{
+ "id": "caption.tall-bold",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "tall",
+  "condensed",
+  "bold",
+  "orange",
+  "impact"
+ ],
+ "title": {
+  "en": "Tall bold",
+  "ar": "عريض طويل",
+  "de": "Hoch und fett",
+  "es": "Alta y gruesa",
+  "fr": "Haut et gras",
+  "id": "Tinggi tebal",
+  "ja": "縦長ボールド",
+  "ko": "길쭉 볼드",
+  "pt": "Alta e grossa",
+  "ru": "Высокий жирный",
+  "tr": "Uzun kalın",
+  "zh": "高瘦粗体"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

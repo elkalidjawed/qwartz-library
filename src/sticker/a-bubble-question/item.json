@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-bubble-question",
+ "type": "sticker",
+ "category": "Bubbles",
+ "tags": [
+  "speech",
+  "bubble",
+  "talk",
+  "chat",
+  "say",
+  "animated"
+ ],
+ "title": {
+  "en": "Question bubble",
+  "ar": "فقاعة سؤال",
+  "de": "Fragenblase",
+  "es": "Burbuja de pregunta",
+  "fr": "Bulle question",
+  "id": "Balon tanya",
+  "ja": "はてな吹き出し",
+  "ko": "물음표 말풍선",
+  "pt": "Balão de pergunta",
+  "ru": "Облачко-вопрос",
+  "tr": "Soru balonu",
+  "zh": "问号气泡"
+ },
+ "payload": "a-bubble-question.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

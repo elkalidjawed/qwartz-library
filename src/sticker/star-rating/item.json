@@ -1,0 +1,35 @@
+{
+ "id": "sticker.star-rating",
+ "type": "sticker",
+ "category": "Shapes",
+ "tags": [
+  "star",
+  "rating",
+  "review",
+  "five",
+  "stars",
+  "score",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Five-star rating",
+  "ar": "تقييم خمس نجوم",
+  "de": "Fünf-Sterne-Bewertung",
+  "es": "Cinco estrellas",
+  "fr": "Note cinq étoiles",
+  "id": "Rating bintang lima",
+  "ja": "5つ星評価",
+  "ko": "별점 5개",
+  "pt": "Cinco estrelas",
+  "ru": "Пять звёзд",
+  "tr": "Beş yıldız",
+  "zh": "五星好评"
+ },
+ "payload": "star-rating.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "effect.glitch-burst",
+ "type": "effect",
+ "category": "Glitch",
+ "tags": [
+  "glitch",
+  "burst",
+  "hit",
+  "digital",
+  "error"
+ ],
+ "title": {
+  "en": "Glitch hits",
+  "ar": "ومضات خلل",
+  "de": "Glitch-Stöße",
+  "es": "Golpes glitch",
+  "fr": "Coups de glitch",
+  "id": "Hentakan glitch",
+  "ja": "グリッチヒット",
+  "ko": "글리치 히트",
+  "pt": "Golpes de glitch",
+  "ru": "Глитч-удары",
+  "tr": "Glitch vuruşları",
+  "zh": "故障冲击"
+ },
+ "payload": "glitch-burst.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-crown-doodle",
+ "type": "sticker",
+ "category": "Doodles",
+ "tags": [
+  "doodle",
+  "draw",
+  "hand",
+  "scribble",
+  "animated"
+ ],
+ "title": {
+  "en": "Crown doodle",
+  "ar": "رسم تاج",
+  "de": "Kronen-Kritzelei",
+  "es": "Corona dibujada",
+  "fr": "Couronne dessinée",
+  "id": "Coretan mahkota",
+  "ja": "手描き王冠",
+  "ko": "왕관 낙서",
+  "pt": "Coroa desenhada",
+  "ru": "Рисунок короны",
+  "tr": "Taç çizimi",
+  "zh": "手绘皇冠"
+ },
+ "payload": "a-crown-doodle.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

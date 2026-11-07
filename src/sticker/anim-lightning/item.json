@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-lightning",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Lightning",
+  "ar": "برق",
+  "de": "Blitz",
+  "es": "Rayo",
+  "fr": "Éclair",
+  "id": "Petir",
+  "ja": "稲妻",
+  "ko": "번개",
+  "pt": "Raio",
+  "ru": "Молния",
+  "tr": "Şimşek",
+  "zh": "闪电"
+ },
+ "payload": "anim-lightning.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "effect.night-vision",
+ "type": "effect",
+ "category": "Light",
+ "tags": [
+  "night",
+  "vision",
+  "green",
+  "military",
+  "camera"
+ ],
+ "title": {
+  "en": "Night vision",
+  "ar": "رؤية ليلية",
+  "de": "Nachtsicht",
+  "es": "Visión nocturna",
+  "fr": "Vision nocturne",
+  "id": "Penglihatan malam",
+  "ja": "暗視カメラ",
+  "ko": "야간 투시",
+  "pt": "Visão noturna",
+  "ru": "Ночное видение",
+  "tr": "Gece görüşü",
+  "zh": "夜视"
+ },
+ "payload": "night-vision.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "id": "transition.lens-warp",
+ "type": "transition",
+ "category": "Distort",
+ "tags": [
+  "lens",
+  "warp",
+  "bulge",
+  "distort"
+ ],
+ "title": {
+  "en": "Lens warp",
+  "ar": "تشوه العدسة",
+  "de": "Linsenverzerrung",
+  "es": "Distorsión de lente",
+  "fr": "Déformation lentille",
+  "id": "Lengkung lensa",
+  "ja": "レンズワープ",
+  "ko": "렌즈 왜곡",
+  "pt": "Distorção de lente",
+  "ru": "Линзовое искажение",
+  "tr": "Mercek bükme",
+  "zh": "镜头扭曲"
+ },
+ "payload": "lens-warp.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

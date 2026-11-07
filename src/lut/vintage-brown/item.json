@@ -1,0 +1,36 @@
+{
+ "id": "lut.vintage-brown",
+ "type": "lut",
+ "category": "LUT",
+ "tags": [
+  "vintage",
+  "brown",
+  "sepia",
+  "old",
+  "warm",
+  "retro",
+  "lut",
+  "color",
+  "grade"
+ ],
+ "title": {
+  "en": "Vintage brown",
+  "ar": "بني عتيق",
+  "de": "Vintage-Braun",
+  "es": "Marrón vintage",
+  "fr": "Brun vintage",
+  "id": "Cokelat vintage",
+  "ja": "ヴィンテージブラウン",
+  "ko": "빈티지 브라운",
+  "pt": "Marrom vintage",
+  "ru": "Винтажный коричневый",
+  "tr": "Vintage kahve",
+  "zh": "复古棕"
+ },
+ "payload": "vintage-brown.cube",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

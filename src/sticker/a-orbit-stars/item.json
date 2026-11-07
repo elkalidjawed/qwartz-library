@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-orbit-stars",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "sparkle",
+  "star",
+  "shine",
+  "glitter",
+  "magic",
+  "animated"
+ ],
+ "title": {
+  "en": "Orbiting stars",
+  "ar": "نجوم تدور",
+  "de": "Kreisende Sterne",
+  "es": "Estrellas en órbita",
+  "fr": "Étoiles en orbite",
+  "id": "Bintang mengorbit",
+  "ja": "周回する星",
+  "ko": "궤도 별",
+  "pt": "Estrelas em órbita",
+  "ru": "Кружащие звёзды",
+  "tr": "Dönen yıldızlar",
+  "zh": "环绕星星"
+ },
+ "payload": "a-orbit-stars.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

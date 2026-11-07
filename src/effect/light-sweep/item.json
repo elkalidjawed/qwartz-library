@@ -1,0 +1,32 @@
+{
+ "id": "effect.light-sweep",
+ "type": "effect",
+ "category": "Light",
+ "tags": [
+  "shine",
+  "sweep",
+  "light",
+  "streak",
+  "gloss"
+ ],
+ "title": {
+  "en": "Light sweep",
+  "ar": "مسحة ضوء",
+  "de": "Lichtstreifen",
+  "es": "Barrido de luz",
+  "fr": "Balayage lumineux",
+  "id": "Sapuan cahaya",
+  "ja": "光のスイープ",
+  "ko": "빛 스윕",
+  "pt": "Brilho passando",
+  "ru": "Блик",
+  "tr": "Işık süpürme",
+  "zh": "光线扫过"
+ },
+ "payload": "light-sweep.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

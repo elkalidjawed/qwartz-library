@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-sleepy",
+ "type": "sticker",
+ "category": "Faces",
+ "tags": [
+  "face",
+  "emoji",
+  "smile",
+  "emotion",
+  "reaction",
+  "animated"
+ ],
+ "title": {
+  "en": "Sleepy",
+  "ar": "نعسان",
+  "de": "Müde",
+  "es": "Con sueño",
+  "fr": "Endormi",
+  "id": "Ngantuk",
+  "ja": "眠い",
+  "ko": "졸림",
+  "pt": "Com sono",
+  "ru": "Сонный",
+  "tr": "Uykulu",
+  "zh": "困了"
+ },
+ "payload": "a-sleepy.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

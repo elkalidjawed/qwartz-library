@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-film",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "Film frame",
+  "ar": "إطار فيلم",
+  "de": "Filmrahmen",
+  "es": "Marco de película",
+  "fr": "Cadre pellicule",
+  "id": "Bingkai film",
+  "ja": "フィルム枠",
+  "ko": "필름 프레임",
+  "pt": "Moldura de filme",
+  "ru": "Кинорамка",
+  "tr": "Film çerçevesi",
+  "zh": "胶片框"
+ },
+ "payload": "a-frame-film.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

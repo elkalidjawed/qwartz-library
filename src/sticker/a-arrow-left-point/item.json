@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-arrow-left-point",
+ "type": "sticker",
+ "category": "Arrows",
+ "tags": [
+  "arrow",
+  "point",
+  "direction",
+  "pointer",
+  "animated"
+ ],
+ "title": {
+  "en": "Left arrow",
+  "ar": "سهم لليسار",
+  "de": "Pfeil links",
+  "es": "Flecha izquierda",
+  "fr": "Flèche gauche",
+  "id": "Panah kiri",
+  "ja": "左矢印",
+  "ko": "왼쪽 화살표",
+  "pt": "Seta para a esquerda",
+  "ru": "Стрелка влево",
+  "tr": "Sol ok",
+  "zh": "左箭头"
+ },
+ "payload": "a-arrow-left-point.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

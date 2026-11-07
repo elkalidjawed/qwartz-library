@@ -1,0 +1,31 @@
+{
+ "id": "overlay.light-leak-rainbow",
+ "type": "overlay",
+ "category": "LightLeaks",
+ "tags": [
+  "light leak",
+  "rainbow",
+  "colour",
+  "prism"
+ ],
+ "title": {
+  "en": "Rainbow light leak",
+  "ar": "تسرب ضوء قوس قزح",
+  "de": "Regenbogen-Lichtleck",
+  "es": "Fuga de luz arcoíris",
+  "fr": "Fuite de lumière arc-en-ciel",
+  "id": "Bocoran cahaya pelangi",
+  "ja": "虹色の光漏れ",
+  "ko": "무지개 빛 번짐",
+  "pt": "Vazamento de luz arco-íris",
+  "ru": "Радужный засвет",
+  "tr": "Gökkuşağı ışık sızıntısı",
+  "zh": "彩虹漏光"
+ },
+ "payload": "light-leak-rainbow.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

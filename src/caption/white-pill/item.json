@@ -1,0 +1,32 @@
+{
+ "id": "caption.white-pill",
+ "type": "caption",
+ "category": "Captions",
+ "tags": [
+  "pill",
+  "box",
+  "clean",
+  "white",
+  "modern"
+ ],
+ "title": {
+  "en": "White pill",
+  "ar": "كبسولة بيضاء",
+  "de": "Weiße Pille",
+  "es": "Píldora blanca",
+  "fr": "Pilule blanche",
+  "id": "Pil putih",
+  "ja": "白いピル",
+  "ko": "화이트 알약",
+  "pt": "Pílula branca",
+  "ru": "Белая капсула",
+  "tr": "Beyaz hap",
+  "zh": "白色胶囊"
+ },
+ "payload": "style.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "id": "sticker.a-bubble-typing",
+ "type": "sticker",
+ "category": "Bubbles",
+ "tags": [
+  "speech",
+  "bubble",
+  "talk",
+  "chat",
+  "say",
+  "animated"
+ ],
+ "title": {
+  "en": "Typing bubble",
+  "ar": "يكتب الآن",
+  "de": "Tipp-Blase",
+  "es": "Escribiendo",
+  "fr": "Bulle de saisie",
+  "id": "Sedang mengetik",
+  "ja": "入力中",
+  "ko": "입력 중",
+  "pt": "Digitando",
+  "ru": "Печатает",
+  "tr": "Yazıyor",
+  "zh": "正在输入"
+ },
+ "payload": "a-bubble-typing.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "id": "sticker.a-hearts-rising",
+ "type": "sticker",
+ "category": "Hearts",
+ "tags": [
+  "heart",
+  "love",
+  "like",
+  "valentine",
+  "animated"
+ ],
+ "title": {
+  "en": "Rising hearts",
+  "ar": "قلوب صاعدة",
+  "de": "Aufsteigende Herzen",
+  "es": "Corazones que suben",
+  "fr": "Cœurs montants",
+  "id": "Hati naik",
+  "ja": "上昇ハート",
+  "ko": "올라가는 하트",
+  "pt": "Corações subindo",
+  "ru": "Взлетающие сердца",
+  "tr": "Yükselen kalpler",
+  "zh": "上升爱心"
+ },
+ "payload": "a-hearts-rising.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

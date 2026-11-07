@@ -1,0 +1,29 @@
+{
+ "id": "sticker.anim-fire",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "animated"
+ ],
+ "title": {
+  "en": "Fire",
+  "ar": "نار",
+  "de": "Feuer",
+  "es": "Fuego",
+  "fr": "Feu",
+  "id": "Api",
+  "ja": "炎",
+  "ko": "불",
+  "pt": "Fogo",
+  "ru": "Огонь",
+  "tr": "Ateş",
+  "zh": "火焰"
+ },
+ "payload": "anim-fire.gif",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

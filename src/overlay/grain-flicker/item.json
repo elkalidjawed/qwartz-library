@@ -1,0 +1,32 @@
+{
+ "id": "overlay.grain-flicker",
+ "type": "overlay",
+ "category": "Film",
+ "tags": [
+  "grain",
+  "flicker",
+  "film",
+  "analog",
+  "vintage"
+ ],
+ "title": {
+  "en": "Film grain and flicker",
+  "ar": "حبيبات ووميض الفيلم",
+  "de": "Filmkorn und Flackern",
+  "es": "Grano y parpadeo de película",
+  "fr": "Grain et scintillement",
+  "id": "Butiran dan kedip film",
+  "ja": "フィルム粒子とちらつき",
+  "ko": "필름 그레인과 깜빡임",
+  "pt": "Granulação e oscilação",
+  "ru": "Зерно и мерцание плёнки",
+  "tr": "Film greni ve titreme",
+  "zh": "胶片颗粒与闪烁"
+ },
+ "payload": "grain-flicker.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

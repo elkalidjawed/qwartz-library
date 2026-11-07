@@ -1,0 +1,32 @@
+{
+ "id": "texttemplate.stacked-name",
+ "type": "texttemplate",
+ "category": "Lower thirds",
+ "tags": [
+  "name",
+  "title",
+  "interview",
+  "modern",
+  "pill"
+ ],
+ "title": {
+  "en": "Stacked name",
+  "ar": "اسم متراكب",
+  "de": "Gestapelter Name",
+  "es": "Nombre apilado",
+  "fr": "Nom empilé",
+  "id": "Nama bertumpuk",
+  "ja": "重ねネーム",
+  "ko": "겹친 이름표",
+  "pt": "Nome empilhado",
+  "ru": "Имя в два ряда",
+  "tr": "Üst üste isim",
+  "zh": "叠层名牌"
+ },
+ "payload": "template.json",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

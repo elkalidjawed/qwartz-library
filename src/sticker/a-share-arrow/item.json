@@ -1,0 +1,35 @@
+{
+ "id": "sticker.a-share-arrow",
+ "type": "sticker",
+ "category": "Social",
+ "tags": [
+  "social",
+  "subscribe",
+  "like",
+  "follow",
+  "youtube",
+  "tiktok",
+  "animated"
+ ],
+ "title": {
+  "en": "Share",
+  "ar": "مشاركة",
+  "de": "Teilen",
+  "es": "Compartir",
+  "fr": "Partager",
+  "id": "Bagikan",
+  "ja": "シェア",
+  "ko": "공유",
+  "pt": "Compartilhar",
+  "ru": "Поделиться",
+  "tr": "Paylaş",
+  "zh": "分享"
+ },
+ "payload": "a-share-arrow.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}

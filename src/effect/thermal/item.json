@@ -1,0 +1,32 @@
+{
+ "id": "effect.thermal",
+ "type": "effect",
+ "category": "Light",
+ "tags": [
+  "thermal",
+  "heat",
+  "infrared",
+  "camera",
+  "predator"
+ ],
+ "title": {
+  "en": "Thermal camera",
+  "ar": "كاميرا حرارية",
+  "de": "Wärmebildkamera",
+  "es": "Cámara térmica",
+  "fr": "Caméra thermique",
+  "id": "Kamera termal",
+  "ja": "サーモカメラ",
+  "ko": "열화상 카메라",
+  "pt": "Câmera térmica",
+  "ru": "Тепловизор",
+  "tr": "Termal kamera",
+  "zh": "热成像"
+ },
+ "payload": "thermal.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

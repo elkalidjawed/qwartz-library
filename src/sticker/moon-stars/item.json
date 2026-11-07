@@ -1,0 +1,34 @@
+{
+ "id": "sticker.moon-stars",
+ "type": "sticker",
+ "category": "Sparkles",
+ "tags": [
+  "moon",
+  "stars",
+  "night",
+  "sleep",
+  "dream",
+  "animated",
+  "sticker"
+ ],
+ "title": {
+  "en": "Moon and stars",
+  "ar": "قمر ونجوم",
+  "de": "Mond und Sterne",
+  "es": "Luna y estrellas",
+  "fr": "Lune et étoiles",
+  "id": "Bulan dan bintang",
+  "ja": "月と星",
+  "ko": "달과 별",
+  "pt": "Lua e estrelas",
+  "ru": "Луна и звёзды",
+  "tr": "Ay ve yıldızlar",
+  "zh": "月亮与星星"
+ },
+ "payload": "moon-stars.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

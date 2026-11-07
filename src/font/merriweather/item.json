@@ -1,0 +1,32 @@
+{
+ "id": "font.merriweather",
+ "type": "font",
+ "category": "Serif",
+ "tags": [
+  "merriweather"
+ ],
+ "title": {
+  "en": "Merriweather",
+  "ar": "Merriweather",
+  "de": "Merriweather",
+  "es": "Merriweather",
+  "fr": "Merriweather",
+  "id": "Merriweather",
+  "ja": "Merriweather",
+  "ko": "Merriweather",
+  "pt": "Merriweather",
+  "ru": "Merriweather",
+  "tr": "Merriweather",
+  "zh": "Merriweather"
+ },
+ "payload": "merriweather.zip",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "OFL-1.1",
+  "author": "2020 The Merriweather Project Authors (https://github.com/EbenSorkin/Merriweather4) with Reserved Font Name \"Merriweather\".",
+  "source": "https://github.com/google/fonts/tree/2eb0b48d5f760f62e286216f0859a8c540dbc1bd/ofl/merriweather"
+ },
+ "extra": {
+  "family": "Merriweather"
+ }
+}

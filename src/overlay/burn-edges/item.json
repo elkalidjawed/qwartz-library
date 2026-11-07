@@ -1,0 +1,33 @@
+{
+ "id": "overlay.burn-edges",
+ "type": "overlay",
+ "category": "LightLeaks",
+ "tags": [
+  "burn",
+  "edges",
+  "film",
+  "fire",
+  "orange",
+  "red"
+ ],
+ "title": {
+  "en": "Burning edges",
+  "ar": "حواف محترقة",
+  "de": "Brennende Ränder",
+  "es": "Bordes ardientes",
+  "fr": "Bords brûlés",
+  "id": "Tepi terbakar",
+  "ja": "燃えるふち",
+  "ko": "타오르는 가장자리",
+  "pt": "Bordas queimando",
+  "ru": "Горящие края",
+  "tr": "Yanan kenarlar",
+  "zh": "燃烧边缘"
+ },
+ "payload": "burn-edges.qfx",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz"
+ }
+}

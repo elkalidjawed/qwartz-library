@@ -1,0 +1,30 @@
+{
+ "style": {
+  "id": "caption.handwritten",
+  "name": "Handwritten",
+  "animation": "rise",
+  "font": "Caveat",
+  "size": 88,
+  "bold": true,
+  "italic": false,
+  "uppercase": false,
+  "color": "#fff6e6ff",
+  "stroke": "#000000ff",
+  "strokeWidth": 0,
+  "background": "#00000000",
+  "bgPadding": 0.3,
+  "bgRadius": 0.6,
+  "glow": "#ffffff00",
+  "glowSize": 12,
+  "gradient": "#ffffff00",
+  "shadow": "#00000099",
+  "shadowBlur": 6,
+  "shadowX": 0,
+  "shadowY": 3,
+  "letterSpacing": 0,
+  "highlight": "#ffb36bff",
+  "maxWords": 4,
+  "y": 0.32,
+  "emoji": false
+ }
+}

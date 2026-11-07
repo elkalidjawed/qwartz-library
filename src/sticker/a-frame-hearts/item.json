@@ -1,0 +1,32 @@
+{
+ "id": "sticker.a-frame-hearts",
+ "type": "sticker",
+ "category": "Frames",
+ "tags": [
+  "frame",
+  "border",
+  "box",
+  "animated"
+ ],
+ "title": {
+  "en": "Heart frame",
+  "ar": "إطار قلوب",
+  "de": "Herzrahmen",
+  "es": "Marco de corazones",
+  "fr": "Cadre cœurs",
+  "id": "Bingkai hati",
+  "ja": "ハート枠",
+  "ko": "하트 프레임",
+  "pt": "Moldura de corações",
+  "ru": "Рамка с сердцами",
+  "tr": "Kalpli çerçeve",
+  "zh": "爱心框"
+ },
+ "payload": "a-frame-hearts.apng",
+ "minApp": "0.1",
+ "licence": {
+  "spdx": "LicenseRef-Qwartz-Official",
+  "author": "Qwartz",
+  "notice": "Original artwork made for Qwartz (tools/make-anim-stickers.py); moved from the installer to the online library."
+ }
+}
